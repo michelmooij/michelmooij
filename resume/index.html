@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
+    <base href="https://michelmooij.github.io/">
+    
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400|Old+Standard+TT:400' rel='stylesheet' type='text/css'>
+
+    <link rel="icon" type="image/png" href="https://michelmooij.github.io/favicon_16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://michelmooij.github.io/favicon_32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://michelmooij.github.io/favicon_128x128.png" sizes="128x128">
+
+    <title>
+      
+      
+         Resume Michel 
+      
+    </title>
+    <link rel="canonical" href="https://michelmooij.github.io/resume/">
+
+    <style>
+  * {
+    border:0;
+    font:inherit;
+    font-size:100%;
+    vertical-align:baseline;
+    margin:0;
+    padding:0;
+    color: black;
+  }
+
+  body {
+    font-family:'Open Sans', 'Myriad Pro', Myriad, sans-serif;
+    font-size:17px;
+    line-height:160%;
+    color:#1d1313;
+    max-width:700px;
+    margin:auto;
+  }
+
+  p {
+    margin: 20px 0;
+  }
+
+  a img {
+    border:none;
+  }
+
+  img {
+    margin: 10px auto 10px auto;
+    max-width: 100%;
+    display: block;
+  }
+
+  pre, code {
+    font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    background-color: #f7f7f7;
+  }
+
+  code {
+    font-size: 12px;
+    padding: 4px;
+  }
+
+  pre {
+    margin-top: 0;
+    margin-bottom: 16px;
+    word-wrap: normal;
+    padding: 16px;
+    overflow: auto;
+    font-size: 85%;
+    line-height: 1.45;
+  }
+
+  pre>code {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    word-break: normal;
+    white-space: pre;
+    background: transparent;
+    border: 0;
+  }
+
+  pre code {
+    display: inline;
+    max-width: auto;
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+    line-height: inherit;
+    word-wrap: normal;
+    background-color: transparent;
+    border: 0;
+  }
+
+  pre code::before,
+  pre code::after {
+    content: normal;
+  }
+
+  em,q,em,dfn {
+    font-style:italic;
+  }
+
+  .sans,html .gist .gist-file .gist-meta {
+    font-family:"Open Sans","Myriad Pro",Myriad,sans-serif;
+  }
+
+  .mono,pre,code,tt,p code,li code {
+    font-family:Menlo,Monaco,"Andale Mono","lucida console","Courier New",monospace;
+  }
+
+  .heading,.serif,h1,h2,h3 {
+    font-family:"Old Standard TT",serif;
+  }
+
+  strong {
+    font-weight:600;
+  }
+
+  q:before {
+    content:"\201C";
+  }
+
+  q:after {
+    content:"\201D";
+  }
+
+  del,s {
+    text-decoration:line-through;
+  }
+
+  blockquote {
+    font-family:"Old Standard TT",serif;
+    text-align:center;
+    padding:50px;
+  }
+
+  blockquote p {
+    display:inline-block;
+    font-style:italic;
+  }
+
+  blockquote:before,blockquote:after {
+    font-family:"Old Standard TT",serif;
+    content:'\201C';
+    font-size:35px;
+    color:#403c3b;
+  }
+
+  blockquote:after {
+    content:'\201D';
+  }
+
+  hr {
+    width:40%;
+    height: 1px;
+    background:#403c3b;
+    margin: 25px auto;
+  }
+
+  h1 {
+    font-size:35px;
+  }
+
+  h2 {
+    font-size:28px;
+  }
+
+  h3 {
+    font-size:22px;
+    margin-top:18px;
+  }
+
+  h1 a,h2 a,h3 a {
+    text-decoration:none;
+  }
+
+  h1,h2 {
+    margin-top:28px;
+  }
+
+  #sub-header, time {
+    color:#403c3b;
+    font-size:13px;
+  }
+
+  #sub-header {
+    margin: 0 4px;
+  }
+
+  #nav h1 a {
+    font-size:35px;
+    color:#1d1313;
+    line-height:120%;
+  }
+
+  .posts_listing a,#nav a {
+    text-decoration: none;
+  }
+
+  li {
+    margin-left: 20px;
+  }
+
+  ul li {
+    margin-left: 5px;
+  }
+
+  ul li {
+    list-style-type: none;
+  }
+  ul li:before {
+    content:"\00BB \0020";
+  }
+
+  #nav ul li:before, .posts_listing li:before {
+    content:'';
+    margin-right:0;
+  }
+
+  #content {
+    text-align:left;
+    width:100%;
+    font-size:15px;
+    padding:60px 0 80px;
+  }
+
+  #content h1,#content h2 {
+    margin-bottom:5px;
+  }
+
+  #content h2 {
+    font-size:25px;
+  }
+
+  #content .entry-content {
+    margin-top:15px;
+  }
+
+  #content time {
+    margin-left:3px;
+  }
+
+  #content h1 {
+    font-size:30px;
+  }
+
+  .highlight {
+    margin: 10px 0;
+  }
+
+  .posts_listing {
+    margin:0 0 50px;
+  }
+
+  .posts_listing li {
+    margin:0 0 25px 15px;
+  }
+
+  .posts_listing li a:hover,#nav a:hover {
+    text-decoration: underline;
+  }
+
+  #nav {
+    text-align:center;
+    position:static;
+    margin-top:60px;
+  }
+
+  #nav ul {
+    display: table;
+    margin: 8px auto 0 auto;
+  }
+
+  #nav li {
+    list-style-type:none;
+    display:table-cell;
+    font-size:15px;
+    padding: 0 20px;
+  }
+
+  #links {
+    margin: 50px 0 0 0;
+  }
+
+  #links :nth-child(2) {
+    float:right;
+  }
+
+  #not-found {
+    text-align: center;
+  }
+
+  #not-found a {
+    font-family:"Old Standard TT",serif;
+    font-size: 200px;
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 225px;
+  }
+
+  @media (max-width: 750px) {
+    body {
+      padding-left:20px;
+      padding-right:20px;
+    }
+
+    #nav h1 a {
+      font-size:28px;
+    }
+
+    #nav li {
+      font-size:13px;
+      padding: 0 15px;
+    }
+
+    #content {
+      margin-top:0;
+      padding-top:50px;
+      font-size:14px;
+    }
+
+    #content h1 {
+      font-size:25px;
+    }
+
+    #content h2 {
+      font-size:22px;
+    }
+
+    .posts_listing li div {
+      font-size:12px;
+    }
+  }
+
+  @media (max-width: 400px) {
+    body {
+      padding-left:20px;
+      padding-right:20px;
+    }
+
+    #nav h1 a {
+      font-size:22px;
+    }
+
+    #nav li {
+      font-size:12px;
+      padding: 0 10px;
+    }
+
+    #content {
+      margin-top:0;
+      padding-top:20px;
+      font-size:12px;
+    }
+
+    #content h1 {
+      font-size:20px;
+    }
+
+    #content h2 {
+      font-size:18px;
+    }
+
+    .posts_listing li div{
+      font-size:12px;
+    }
+  }
+</style>
+
+
+    
+  </head>
+
+  <body>
+    <section id=nav>
+      <h1><a href="https://michelmooij.github.io/">Michel Mooij</a></h1>
+      <ul>
+        
+          <li><a href="about">About</a></li>
+        
+          <li><a href="project">Projects</a></li>
+        
+          <li><a href="resume">Resume</a></li>
+        
+          <li><a href="writing">Writing</a></li>
+        
+      </ul>
+    </section>
+
+
+<section id=content>
+  <h1> Resume Michel </h1>
+
+  <div id=sub-header>
+    April 2014 · 4 minute read
+  </div>
+
+  <div class="entry-content">
+    <h3 id="persoonlijke-gegevens">PERSOONLIJKE GEGEVENS</h3>
+
+<p>Michel Mooij M.Arch.</p>
+
+<p>Geboren 26 september 1954 te Rotterdam</p>
+
+<p>Telefoon +31(0)645480893</p>
+
+<p>Email mooij.michel@icloud.com</p>
+
+<h3 id="profiel">PROFIEL</h3>
+
+<p>Als (project-)manager en architect/consultant weet ik ruim 25 jaar de verbinding te maken tussen de behoeften van mensen en organisaties en hun fysieke omgeving. Ik heb veel energie en weet mensen en organisaties op inspirerende wijze te leiden bij het realiseren van hun doelen.  Mijn brede ervaring en politieke realiteitszin stellen mij goed in staat om plannen geaccepteerd te krijgen en doelen/projecten op tijd en binnen budget te realiseren.</p>
+
+<h3 id="opleiding">OPLEIDING</h3>
+
+<p>1966-1972 HBS-B, Rotterdams Montessori Lyceum</p>
+
+<p>1972-1978 Kandidaats architectuur, Bouwkunde TH Delft</p>
+
+<p>1978-1980 Architect AvB, Academie van Bouwkunst Groningen</p>
+
+<p>1987-1987 X+I=T automatiseringsopleiding, Pandata</p>
+
+<h3 id="cursussen">CURSUSSEN</h3>
+
+<p>1987 Acquisitietraining, Pandata</p>
+
+<p>1987 Presentatietechniek, ISW</p>
+
+<p>1990-1991 Projectmatig werken, Adviesvaardigheden, Delta denken, Interview- en gespreksvaardigheid, Persoonlijke presentatie, Facility management en I- en A-management, Twijnstra Gudde</p>
+
+<p>1992 Acquisitietraining, Boertien</p>
+
+<p>2006 Training Workshops geven, Boertien</p>
+
+<p>2010 BREEAM expert training, DGBC</p>
+
+<p>2013 Certificaat Pedagogische en Didactische Vaardigheden,</p>
+
+<h3 id="loopbaan">LOOPBAAN</h3>
+
+<h4 id="2012-2014-hogeschooldocent-aan-de-haagse-hogeschool"><strong>2012-2014 Hogeschooldocent</strong> aan de Haagse Hogeschool,</h4>
+
+<p>verantwoordelijk voor het verzorgen van onderwijs op het gebied van huisvestingsstrategie aan studenten van de bachelor opleiding Facility Management. Bijdragen aan de ontwikkeling van een nieuw curriculum.</p>
+
+<h4 id="2008-2012-senior-adviseur-eigenaar-van-workspace-holding"><strong>2008-2012 Senior adviseur/eigenaar</strong> van Workspace Holding,</h4>
+
+<p>verantwoordelijk voor de voortzetting van Workspace consultancy en de participatie in Proven Workspace (september 2008-december 2010), waar ik als directeur naast mijn eigen projecten gezorgd heb voor een flinke upgrade van de externe profilering en de kennisontwikkeling van de medewerkers.</p>
+
+<h4 id="2006-2008-adviesgroep-manager-bij-hospitality-consultants"><strong>2006-2008 Adviesgroep manager</strong> bij Hospitality Consultants,</h4>
+
+<p>eindverantwoordelijk voor de door de adviesgroep huisvestingsadvies uitgevoerde opdrachten op het gebied van huisvesting, projectmanagement en conceptontwikkeling.</p>
+
+<h4 id="2003-2006-senior-adviseur-bij-draaijer-partners"><strong>2003-2006 Senior adviseur</strong> bij Draaijer & Partners,</h4>
+
+<p>eindverantwoordelijk voor de door mij ingebrachte advies- en projectmanagementopdrachten, onder andere voor het Bouwfonds en de Rijksdienst voor het cultureel erfgoed RACM.</p>
+
+<h4 id="1997-2003-directeur-eigenaar-van-workspace-consultancy"><strong>1997-2003 Directeur/eigenaar</strong> van Workspace consultancy,</h4>
+
+<p>verantwoordelijk voor talrijke opdrachten op het gebied van kantoorinnovatie en het "Nieuwe Werken", onder meer voor het Ministerie van VROM, enkele grote (deel)gemeenten, grote banken en verzekeraars en de kantoordelen van enkele industrile bedrijven. Als ondernemer verantwoordelijk voor het bedrijfsresultaat.</p>
+
+<h4 id="1995-1997-adjunct-directeur-van-desenco-advies-en-projectmanagement"><strong>1995-1997 Adjunct directeur</strong> van Desenco Advies en Projectmanagement,</h4>
+
+<p>verantwoordelijk voor de vakinhoudelijke ontwikkeling en innovatie van het bureau. Ik heb de dienstverlening verbreed en de professionaliteit vergroot, door intensief coachen van de medewerkers. Onder mijn verantwoordelijkheid voerde het bureau naast (her-)huisvestingsprojecten (investering 2-10 miljoen euro) haar eerste succesvolle kantoorinnovatie-opdrachten uit voor o.a. ING Bank Nederland.</p>
+
+<h4 id="1989-1995-senior-opdrachtleider-bij-twijnstra-gudde"><strong>1989-1995 Senior opdrachtleider</strong> bij Twijnstra Gudde,</h4>
+
+<p>verantwoordelijk voor de projectmatige aanpak van opdrachten op het gebied van huisvesting en facility management, zoals:</p>
+
+<h4 id="1986-1989-projectleider-bij-pandata-cap-gemini"><strong>1986-1989 Projectleider</strong> bij Pandata (Cap Gemini),</h4>
+
+<p>verantwoordelijk voor het leiden van automatiseringsprojecten in de fasen: informatieplanning, definitiestudie en basisontwerp, waaronder:</p>
+
+<h4 id="1984-1986-architect-partner-bij-architectenbureau-astma-partners-in-leiden"><strong>1984-1986 Architect, partner</strong> bij Architectenbureau Astma Partners in Leiden,</h4>
+
+<p>verantwoordelijk voor kleinschalige projectontwikkeling en het ontwerp en de realisatie van middelgrote projecten in de woning- en utiliteitsbouw (investering 2-20 miljoen euro).</p>
+
+<h4 id="1983-1984-medewerkend-architect-bij-de-haagse-architecten-associatie"><strong>1983-1984 Medewerkend architect</strong> bij de Haagse Architecten Associatie,</h4>
+
+<p>medeverantwoordelijk voor het ontwerp van de nieuwbouw van het diergeneeskundig laboratorium van de Rijksuniversiteit Utrecht (investering 30 miljoen euro).</p>
+
+<h4 id="1993-1983-assistent-ontwerper-bij-inbo-te-woudenberg"><strong>1993-1983 Assistent ontwerper</strong> bij INBO te Woudenberg,</h4>
+
+<p>verantwoordelijk voor de uitwerking van woningbouwprojecten van schetsontwerp tot definitief ontwerp.</p>
+
+<h4 id="1981-1983-gastdocent-aan-de-academie-van-bouwkunst-groningen"><strong>1981-1983 Gastdocent</strong> aan de Academie van Bouwkunst Groningen,</h4>
+
+<p>verantwoordelijk voor het initiren en begeleiden van 3e en 4e jaars ontwerpprojecten.</p>
+
+<h4 id="1979-1982-medewerkend-architect-bij-architectenbureau-van-heelsbergen-jansen"><strong>1979-1982 Medewerkend architect</strong> bij Architectenbureau Van Heelsbergen Jansen,</h4>
+
+<p>verantwoordelijk voor de ontwerpfase van uiteenlopende bouwprojecten (tot circa 4 miljoen euro) en de planning en inzet van zes medewerkers.</p>
+
+<ul>
+<li>het opstellen van strategische huisvestingsplannen</li>
+<li>het managen van complexe (her)huisvestingstrajecten (bijvoorbeeld de fusie NMB-Postbank)</li>
+<li>het adviseren en implementeren van organisatieveranderingen</li>
+<li>het opstellen van informatie- en automatiseringsbeleidsplannen.</li>
+<li>de ontwikkeling van een projectadministratiesysteem voor ICL</li>
+<li>een orderverwerkingssysteem voor het bemiddelingsbureau van de Bloemenveiling Westland</li>
+<li>het EDI-flower-project voor elektronische berichtenuitwisseling tussen de partners in de keten.</li>
+</ul>
+
+<h2 id="lidmaatschappen">LIDMAATSCHAPPEN</h2>
+
+<ul>
+<li>Corenet Global Benelux</li>
+<li>Dutch Green Building Council</li>
+<li>Facility Management Nederland</li>
+<li>Architectenregister SBA</li>
+</ul>
+
+<h2 id="publicaties-en-lezingen">PUBLICATIES EN LEZINGEN</h2>
+
+<h4 id="2013-2015">2013-2015</h4>
+
+<p>Het nieuwe werken, gastbijdrage 6-daagse verdiepingsopleiding Facility Management, SBO</p>
+
+<h4 id="2012">2012</h4>
+
+<p>De toekomst van kantoren, rondetafeldebat FMM samen met Erik Veldhoen, Jan-Peter Kastelein en Fred Kloet.</p>
+
+<p>Hoeveel vrijheid biedt het Nieuwe Werken?, column FMM</p>
+
+<h4 id="2011">2011</h4>
+
+<p>Ruimtebesparing of doelmatig ruimtegebruik?, column FMM</p>
+
+<p>Het einde van FM binnen de organisatie?, column FMM</p>
+
+<p>Het Nieuwe Werken, Hoe klantgericht kun je zijn?, Lezing NVIH</p>
+
+<p>Technology- en milieu-push bepalen HNW, column FMM</p>
+
+<h4 id="2010">2010</h4>
+
+<p>Het Nieuwe Werken, lezing op de architectendag van Markant, Utrecht</p>
+
+<p>Is het Nieuwe Werken duurzaam?, artikel in Facto Magazine</p>
+
+<p>Groen denken, groen bouwen, groen gebruiken, artikel over duurzame werkpatronen in het Jaarboek 2010 van Facility Management Nederland</p>
+
+<p>Concevoir vert, construire vert et exploiter vert, artikel in Office et Culture, France</p>
+
+<h4 id="2009">2009</h4>
+
+<p>Slimmer Werken   Slimmer Huisvesten, lezing Media Plaza</p>
+
+<p>Ruimte voor het Nieuwe Werken, boek uitgegeven door Kluwer</p>
+
+<h4 id="1995-2008">1995-2008</h4>
+
+<p>Talrijke artikelen en lezingen over het werken en de werkomgeving onder andere Het ontstaan van plekzoekende werkers voor Facility Management Magazine.</p>
+
+<h4 id="1991-1994">1991-1994</h4>
+
+<p>Regelmatige publicatie van artikelen over Facility Management, huisvesting en bouwmanagement, waaronder enkele bijdragen aan het Facility Management Handboek en een publicatie in FM Journal.</p>
+
+  </div>
+
+  <div id=links>
+    
+    
+      <a class="basic-alignment left" href="https://michelmooij.github.io/about/">writing.writing1 &raquo;</a>
+    
+  </div>
+</section>
+
+  
+</body>
+</html>
+
+
+
