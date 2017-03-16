@@ -2,138 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://michelmooij.github.io/writing/writing1/</loc>
+    <loc>http://michelmooij.github.io/writing/writing1/</loc>
     <lastmod>2017-03-14T19:10:31+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/about/</loc>
+    <loc>http://michelmooij.github.io/about/</loc>
     <lastmod>2017-03-14T19:08:21+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/project/project1/</loc>
+    <loc>http://michelmooij.github.io/project/project1/</loc>
     <lastmod>2017-03-14T19:07:58+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/post/eerste-post/</loc>
+    <loc>http://michelmooij.github.io/post/eerste-post/</loc>
     <lastmod>2017-03-14T18:47:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/post/test/</loc>
+    <loc>http://michelmooij.github.io/post/test/</loc>
     <lastmod>2017-03-14T18:41:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/post/hugo-block-and-light-theme/</loc>
+    <loc>http://michelmooij.github.io/post/hugo-block-and-light-theme/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/post/creating-a-new-theme/</loc>
+    <loc>http://michelmooij.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/resume/</loc>
+    <loc>http://michelmooij.github.io/resume/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/post/goisforlovers/</loc>
+    <loc>http://michelmooij.github.io/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/post/hugoisforlovers/</loc>
+    <loc>http://michelmooij.github.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/post/migrate-from-jekyll/</loc>
+    <loc>http://michelmooij.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/categories/</loc>
+    <loc>http://michelmooij.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/tags/development/</loc>
+    <loc>http://michelmooij.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/categories/development/</loc>
+    <loc>http://michelmooij.github.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/tags/go/</loc>
+    <loc>http://michelmooij.github.io/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/tags/golang/</loc>
+    <loc>http://michelmooij.github.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/categories/golang/</loc>
+    <loc>http://michelmooij.github.io/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/tags/hugo/</loc>
+    <loc>http://michelmooij.github.io/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/</loc>
+    <loc>http://michelmooij.github.io/</loc>
     <lastmod>2017-03-14T19:10:31+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/post/</loc>
+    <loc>http://michelmooij.github.io/post/</loc>
     <lastmod>2017-03-14T18:47:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/project/</loc>
+    <loc>http://michelmooij.github.io/project/</loc>
     <lastmod>2017-03-14T19:07:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/tags/</loc>
+    <loc>http://michelmooij.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/tags/templates/</loc>
+    <loc>http://michelmooij.github.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/tags/themes/</loc>
+    <loc>http://michelmooij.github.io/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/writing/</loc>
+    <loc>http://michelmooij.github.io/writing/</loc>
     <lastmod>2017-03-14T19:10:31+01:00</lastmod>
     <priority>0</priority>
   </url>
