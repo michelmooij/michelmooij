@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writings on Michel Mooij</title>
-    <link>http://michelmooij.github.io/writing/index.xml</link>
+    <link>https://michelmooij.github.io/writing/index.xml</link>
     <description>Recent content in Writings on Michel Mooij</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Mar 2017 19:10:31 +0100</lastBuildDate>
-    <atom:link href="http://michelmooij.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michelmooij.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>writing1</title>
-      <link>http://michelmooij.github.io/writing/writing1/</link>
+      <link>https://michelmooij.github.io/writing/writing1/</link>
       <pubDate>Tue, 14 Mar 2017 19:10:31 +0100</pubDate>
       
-      <guid>http://michelmooij.github.io/writing/writing1/</guid>
+      <guid>https://michelmooij.github.io/writing/writing1/</guid>
       <description></description>
     </item>
     
