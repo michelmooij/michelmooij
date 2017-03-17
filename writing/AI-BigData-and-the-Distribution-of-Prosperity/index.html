@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
+    <base href="https://michelmooij.github.io/">
+    
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400|Old+Standard+TT:400' rel='stylesheet' type='text/css'>
+
+    <link rel="icon" type="image/png" href="../../favicon_16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="../../favicon_32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="../../favicon_128x128.png" sizes="128x128">
+
+    <title>
+      
+      
+         AI BigData and the Distribution of Wealth 
+      
+    </title>
+    <link rel="canonical" href="https://michelmooij.github.io/writing/AI-BigData-and-the-Distribution-of-Prosperity/">
+
+    <style>
+  * {
+    border:0;
+    font:inherit;
+    font-size:100%;
+    vertical-align:baseline;
+    margin:0;
+    padding:0;
+    color: black;
+  }
+
+  body {
+    font-family:'Open Sans', 'Myriad Pro', Myriad, sans-serif;
+    font-size:17px;
+    line-height:160%;
+    color:#1d1313;
+    max-width:700px;
+    margin:auto;
+  }
+
+  p {
+    margin: 20px 0;
+  }
+
+  a img {
+    border:none;
+  }
+
+  img {
+    margin: 10px auto 10px auto;
+    max-width: 100%;
+    display: block;
+  }
+
+  pre, code {
+    font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    background-color: #f7f7f7;
+  }
+
+  code {
+    font-size: 12px;
+    padding: 4px;
+  }
+
+  pre {
+    margin-top: 0;
+    margin-bottom: 16px;
+    word-wrap: normal;
+    padding: 16px;
+    overflow: auto;
+    font-size: 85%;
+    line-height: 1.45;
+  }
+
+  pre>code {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    word-break: normal;
+    white-space: pre;
+    background: transparent;
+    border: 0;
+  }
+
+  pre code {
+    display: inline;
+    max-width: auto;
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+    line-height: inherit;
+    word-wrap: normal;
+    background-color: transparent;
+    border: 0;
+  }
+
+  pre code::before,
+  pre code::after {
+    content: normal;
+  }
+
+  em,q,em,dfn {
+    font-style:italic;
+  }
+
+  .sans,html .gist .gist-file .gist-meta {
+    font-family:"Open Sans","Myriad Pro",Myriad,sans-serif;
+  }
+
+  .mono,pre,code,tt,p code,li code {
+    font-family:Menlo,Monaco,"Andale Mono","lucida console","Courier New",monospace;
+  }
+
+  .heading,.serif,h1,h2,h3 {
+    font-family:"Old Standard TT",serif;
+  }
+
+  strong {
+    font-weight:600;
+  }
+
+  q:before {
+    content:"\201C";
+  }
+
+  q:after {
+    content:"\201D";
+  }
+
+  del,s {
+    text-decoration:line-through;
+  }
+
+  blockquote {
+    font-family:"Old Standard TT",serif;
+    text-align:center;
+    padding:50px;
+  }
+
+  blockquote p {
+    display:inline-block;
+    font-style:italic;
+  }
+
+  blockquote:before,blockquote:after {
+    font-family:"Old Standard TT",serif;
+    content:'\201C';
+    font-size:35px;
+    color:#403c3b;
+  }
+
+  blockquote:after {
+    content:'\201D';
+  }
+
+  hr {
+    width:40%;
+    height: 1px;
+    background:#403c3b;
+    margin: 25px auto;
+  }
+
+  h1 {
+    font-size:35px;
+  }
+
+  h2 {
+    font-size:28px;
+  }
+
+  h3 {
+    font-size:22px;
+    margin-top:18px;
+  }
+
+  h1 a,h2 a,h3 a {
+    text-decoration:none;
+  }
+
+  h1,h2 {
+    margin-top:28px;
+  }
+
+  #sub-header, time {
+    color:#403c3b;
+    font-size:13px;
+  }
+
+  #sub-header {
+    margin: 0 4px;
+  }
+
+  #nav h1 a {
+    font-size:35px;
+    color:#1d1313;
+    line-height:120%;
+  }
+
+  .posts_listing a,#nav a {
+    text-decoration: none;
+  }
+
+  li {
+    margin-left: 20px;
+  }
+
+  ul li {
+    margin-left: 5px;
+  }
+
+  ul li {
+    list-style-type: none;
+  }
+  ul li:before {
+    content:"\00BB \0020";
+  }
+
+  #nav ul li:before, .posts_listing li:before {
+    content:'';
+    margin-right:0;
+  }
+
+  #content {
+    text-align:left;
+    width:100%;
+    font-size:15px;
+    padding:60px 0 80px;
+  }
+
+  #content h1,#content h2 {
+    margin-bottom:5px;
+  }
+
+  #content h2 {
+    font-size:25px;
+  }
+
+  #content .entry-content {
+    margin-top:15px;
+  }
+
+  #content time {
+    margin-left:3px;
+  }
+
+  #content h1 {
+    font-size:30px;
+  }
+
+  .highlight {
+    margin: 10px 0;
+  }
+
+  .posts_listing {
+    margin:0 0 50px;
+  }
+
+  .posts_listing li {
+    margin:0 0 25px 15px;
+  }
+
+  .posts_listing li a:hover,#nav a:hover {
+    text-decoration: underline;
+  }
+
+  #nav {
+    text-align:center;
+    position:static;
+    margin-top:60px;
+  }
+
+  #nav ul {
+    display: table;
+    margin: 8px auto 0 auto;
+  }
+
+  #nav li {
+    list-style-type:none;
+    display:table-cell;
+    font-size:15px;
+    padding: 0 20px;
+  }
+
+  #links {
+    margin: 50px 0 0 0;
+  }
+
+  #links :nth-child(2) {
+    float:right;
+  }
+
+  #not-found {
+    text-align: center;
+  }
+
+  #not-found a {
+    font-family:"Old Standard TT",serif;
+    font-size: 200px;
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 225px;
+  }
+
+  @media (max-width: 750px) {
+    body {
+      padding-left:20px;
+      padding-right:20px;
+    }
+
+    #nav h1 a {
+      font-size:28px;
+    }
+
+    #nav li {
+      font-size:13px;
+      padding: 0 15px;
+    }
+
+    #content {
+      margin-top:0;
+      padding-top:50px;
+      font-size:14px;
+    }
+
+    #content h1 {
+      font-size:25px;
+    }
+
+    #content h2 {
+      font-size:22px;
+    }
+
+    .posts_listing li div {
+      font-size:12px;
+    }
+  }
+
+  @media (max-width: 400px) {
+    body {
+      padding-left:20px;
+      padding-right:20px;
+    }
+
+    #nav h1 a {
+      font-size:22px;
+    }
+
+    #nav li {
+      font-size:12px;
+      padding: 0 10px;
+    }
+
+    #content {
+      margin-top:0;
+      padding-top:20px;
+      font-size:12px;
+    }
+
+    #content h1 {
+      font-size:20px;
+    }
+
+    #content h2 {
+      font-size:18px;
+    }
+
+    .posts_listing li div{
+      font-size:12px;
+    }
+  }
+</style>
+
+
+    
+  </head>
+
+  <body>
+    <section id=nav>
+      <h1><a href="../../">Michel Mooij</a></h1>
+      <ul>
+        
+          <li><a href="about">About</a></li>
+        
+          <li><a href="../../project/">Projects</a></li>
+        
+          <li><a href="resume">Resume</a></li>
+        
+          <li><a href="../../writing/">Writing</a></li>
+        
+      </ul>
+    </section>
+
+
+<section id=content>
+  <h1> AI BigData and the Distribution of Wealth </h1>
+
+  <div id=sub-header>
+    March 2017 · 20 minute read
+  </div>
+
+  <div class="entry-content">
+    <h1 id="artificial-intelligence-big-data-and-the-distribution-of-wealth">Artificial Intelligence, Big Data and the Distribution of Wealth</h1>
+
+<p><strong><em>Is the free market is still able to steer the production and distribution of goods and services to sustain a peaceful society or is it time to replace it by a new economic system which uses AI to distribute the wealth with algorithms and big data?</em></strong></p>
+
+<p>Artificial Intelligence (AI), I would rather call it high intelligence because it is not so much the artificiality that matters, but rather the fact that the intelligence is becoming greater than that of man soon. High intelligence, which has beaten humans already in games like chess, Jeopardy, and Go, will not allow humans to mislead her. For example, it will instantly expose the irrational behavior of people in the economy.</p>
+
+<p>Big data, in my opinion, has an emphasis on lots of data, particularly because quantity of data matter in an analysis. Also others sources like the physical environment or nature itself should attribute to the collection of big data.</p>
+
+<p>Finally, I suggest to relativize the in the economy as high excited social connectedness of human beings and also to look at the biological connection to our physical world, nature.</p>
+
+<h2 id="intelligence">Intelligence</h2>
+
+<p>Let’s start with the great intelligence, which I will refer further with AI. In commercial use of AI, the developers often choose a client oriented approach. The developers want to make money in the actual economic system, but they forget that their AI will radically change economics. Take for example the AI of the speech technology user interface Viv, a further development of Siri, which understands what you are asking and gives answers based on a profile of your earlier questions. Viv learns your preferences and always knows what you want. That brings us to the next question.</p>
+
+<p>Must AI rely on information about what we (customers) desire most? Or should AI help us in understanding the laws of reality around us? Do we want information adjusted to our wishes and conduct, aimed at presenting attractive offers in an adequate way (such as Facebook, Google, ViV, etc.)? Or do we want information that precisely reflects reality and helps us to understand better the world (such as scientific computer simulations based on nanoscopy, radio telescope, time-lapse and high-speed shooting, or only Google Earth)[fn:2]?</p>
+
+<p>With AI machines indeed learn to model the reality as well as possible, but they are also used to please the people with adequate information to their needs and wishes.</p>
+
+<p>>It’s as if someone who stands before the window and obstructs to look out, tells you what there is to see outside.</p>
+
+<p>That is pretty much the definition of manipulation. In this way, AI takes thinking and judgment out of your hands in exchange for convenience and instant gratification. If AI through deep learning learns to behave with customer focus instead of unlocking the world to us, we are far from home. Marketing based on customer focus until now has considerably disturbed the natural order of things in the world already. With IA this will rapidly become worse. To clarify this, I need to explain a bit of the economics. What is economics precisely?</p>
+
+<h2 id="economics">Economics</h2>
+
+<p>>“The science that deals with the distribution of scarce resources (goods and services) in society. It focuses on the creation of products and the distribution of these commodities. The concept of scarcity plays in the economy a significant role.”[fn:1]</p>
+
+<p>When I read that, I instantly thought, are non-scarce goods and services considered not within the focus area of economics? There are a lot of them. All digital products produced by IT that can be replicated without lowering returns and no loss of quality at almost no cost, such as music, movies, books, knowledge and data, are they not scarce goods? And would they not be part of the economy?</p>
+
+<p>According to the theory, our economic system focuses on in a free market matching of demand and supply of scarce goods and services produced in society by primary production factors nature and labor and secondary production factor capital. But that’s theory; the reality is different.</p>
+
+<p>The economic system is controlled by social systems. Marketing, advertising, social media and income inequality, manipulate the needs and desires of the people. Carefully managed scarcity leads the ‘free’ market, which should independently regulate demand and supply. This manipulation happens mainly digital, visible through Facebook, Google, and others, but also obscured by algorithms that change the results and show ads based on your profile and big data.</p>
+
+<p>The economic system is based on the idea that wealth is created by our hard work and accordingly distributed according to social conventions. ‘There is no such thing as a free ride’ is the expression. The more efficiently we work, the more we can achieve, but ‘ Who does not work shall not eat.’</p>
+
+<h3 id="the-role-of-labor">The role of labor</h3>
+
+<p>In production, we have introduced the division of labor and in the distribution of (scarce) goods and services we use to trade on the open market. Business and division of labor are building blocks of our society in which we work in many different occupations, where each does what he can best. And thus the whole functions better. A social construct. Great, but there must be work in all kinds, to realize the division of labor and there must be income, to have a trade.</p>
+
+<p>Because what will remain of the community, if work and the division of labor disappear? Will social interaction still be a solution, when the economic system fails, and it will no longer be possible to earn money with work? Should we fight to distribute the scarce labor, while meanwhile, AI can produce in abundance? And even when machines create wealth, does it make a difference whether we behave socially, or not? Now it is said to the unemployed, that it is important to get involved because it will raise the chances that you will find new work. This reasoning is based on the old work ethic.</p>
+
+<p>As jobs disappear due to automation, it does not make any difference if you were applying for a job through your network, letters, LinkedIn, or other social media. It is not communication on the labor market that does not work; it is the market that stagnates as demand for labor drops.</p>
+
+<p>The economic system will not work as the intended distribution mechanism whereby the money runs opposite to the flow of goods but begins to degenerate into a money pump, which hunts the money into one direction. The economic system is broke. With the disappearance of labor as a factor of production, also disappears the basis for the division of labor and thus the structure of our socioeconomic system. The economic system must evolve towards a system where scarcity and abundance are distributed in a technological way. Using renewable resources such as the solar and cyclic use of materials from renewable resources, as nature does.</p>
+
+<h3 id="ecological-context">Ecological context</h3>
+
+<p>We have overrated people in their social context too long. It is now time to see humanity in his biological and environmental context. We are much more connected with each other, then just as dolls, which play a game together. We are one with the ecosystem of the cosmos[fn:3]. We eat our environment, breathe our environment, walk through our environment, shit in our environment, die in our environment and are eaten by our environment, yet we still do not see the environment! We think it’s a beautiful decor, offered by God with cupboards filled with raw materials. At best, we feel responsible for the management, if God has appointed us as His stewards.</p>
+
+<p>What arrogance! We are just a part of the whole. No less and no more than any other combination of energy and matter.</p>
+
+<h3 id="a-people-thing">A people-thing</h3>
+
+<p>We thought that the economy was a ‘people-thing’, but it is much more. The distribution of scarcity and abundance is not limited to people alone. Moreover, there are already active many distribution mechanisms, which we hardly know and, due to the limit of human thinking not see, let alone be able to control. Our mortality is one of them. “Ashes to ashes, dust to dust,” the Phoenix is ​​the symbol of death and rebirth to evolve. Likewise, technology evolves by generations, as the S-curves that follow each other in the big S-curve of technology development.</p>
+
+<h3 id="production-factors">Production factors</h3>
+
+<p>The economic system revolves around the production factors nature, labor, and capital. Each of these factors of production has an internal rate of return.</p>
+
+<p>Capital grows herself. With some money you earn money. Technology is a capital good and ever originated from natural sources and labor. Technology now develops further through the investment of capital, labor (especially knowledge) and the application of previously developed technology. Through the use of technology in the development of technology (machine learning), the progress is exponential[fn:4]. The share of labor in technology is getting smaller.</p>
+
+<p>Labor has the internal rate of return, to acquire experience and knowledge, which give more outcome with the same labor. Someone who gets paid per produced result gets the benefits of his experience. But someone who works on an hourly basis just has to wait and see if he gets a salary increase based on the accumulated experience.</p>
+
+<p>Natural resources have an internal rate of return in the form of recovery within the ecosystem. If the natural balance is not disturbed, refresh the natural resources within a given cycle. Knowledge of the life cycles and how to close them, are necessary to prevent the depletion of natural resources.</p>
+
+<h2 id="transformation-to-capital-asset">Transformation to capital asset</h2>
+
+<p>Despite the differences between the production factors, they are gradually transformed into a capital asset in the course of history.</p>
+
+<p>Nature has been made a capital asset long ago by land ownership. Because of the scarcity, caused by the depletion of natural resources, the value of the yield of this capital asset also grows. At the same time, everyone can see that its value of natural resource decreases. More recently as a consequence of genetic engineering also varieties of crops became a capital asset. Farmers may not use the seeds of crops to sow new themselves. The crop and seed are owned by a company, which has acquired the right to a portion of Nature, by genetic engineering.</p>
+
+<p>Labor is a capital asset because the optimization of production processes usually involves the replacement of people by machines which can perform the processes faster, more reliable and under unsuitable conditions for humans. In manufacturing the share of technology now supersedes the share of employment. There is nothing wrong with that. We learn more and work smarter, with better technology (tools) we can achieve more. But technology is a capital asset and is owned by an investor and not in the hands of the person who works better. Productivity improvement is a yield for the owner of the technology and not for the man or woman who does the job.</p>
+
+<p>Technology is a capital asset, originated from natural resources, labor and previously developed technology. In whose hands is this gradually encompassing capital asset? Is the economic system then exclusively about capital? Then indeed we live in the world of finance, where algorithms (technology) are used to multiply money without any relation to the real economy</p>
+
+<h2 id="a-share-in-the-production-factors">A share in the production factors</h2>
+
+<p>Since people are part of the living earth, they have a right to a share in the wealth of the earth. But they are also obliged to take responsibility and fulfill their role in the ecosystem of the earth, like in the economic system.</p>
+
+<p>Everyone should have a right to a share of nature, a share in capital and a share in labor. Not the one right to work, the other the right to own the riches of nature and another right at the historically accumulated capital and its growth. And every human being should have the duty to contribute to each of the three.</p>
+
+<p>Capital originated from nature and labor and must continue to serve the production of goods and services. It should not jam the hands of a small group of people who do not know better than just subsidize some charities.</p>
+
+<p>Technology should play a role in nature, not at the expense of nature to create capital, but with nature as part of the evolution (Biomimicry[fn:6], Singularity[fn:7]). The revenue of technology and the revenue of nature then will be the same, in which revenue sharing everyone belongs.</p>
+
+<p>If labor is no longer necessary, then thinking must aim at the increase of knowledge, to better understand Nature and to advance technology. This can be done through research, development of ideas, art, self-chosen work and getting involved with nature.</p>
+
+<p>Our economic system gives benefits to the owners of technology at the expense of the providers of labor, who were expelled from the economic system by the same technology.</p>
+
+<h2 id="technology-and-labor">Technology and labor</h2>
+
+<p>Sharing the shrinking demand for labor will eventually not work. If society cannot fulfill the right to work, then it may be time for the right to a share in the technology.</p>
+
+<h3 id="a-share-in-the-technology">A share in the technology?</h3>
+
+<p>The idea of a share in the technology for all is not so farfetched because we already get free apps in exchange for feedback on the evolving technology. The technology learns through use by people.</p>
+
+<p>Development of image recognition software, for example, is possible by making use of all the photos that people upload free of charge in exchange for the free use of a handy photo app.</p>
+
+<p>>You could say that ‘AI learns at the expense of the customer.’</p>
+
+<p>A good example is the use of ‘free’ staff for training the Natural Language Generation Software, called Quill of Narrative Science. Quill has two faces, commercial and idealistic. The commercial face presents the opportunity to write computerized items by collected data. Newspapers and websites can use Quill to do the work of journalists. Quill is capable of writing a message based on facts on the internet in such a natural language that the average reader will not notice the difference with a text written by a man, for example at Forbes[fn:8].</p>
+
+<p>Over the past three months, the consensus estimate has sagged from $ 1.25. For the fiscal year, analysts are expecting earnings of $ 5.75 per share. A year after being $ 1.37 billion, analysts expect revenue to fall 1% year-over-year to $ 1.35 billion for the quarter. For the year, revenue is expected to come in at $ 5.93 billion.</p>
+
+<p>A year-over-year drop in revenue in the fourth quarter broke a three-quarter streak of revenue Increases.</p>
+
+<p>The company has been profitable for the last eight quarters, and for the last four, profit Has Risen year-on-year by an average of 16%. The biggest boost for the company came in the third quarter, When profit jumped by 32%.</p>
+
+<p>The idealistic vision of Quill offers a free application for education to teach better writing. Quill allows pupils and students to improve their writing skills by finding and correcting mistakes in texts in interaction with Quill. The student learns to write better, and the AI of Quill is trained to work better, so the commercial application can replace more professional writers.</p>
+
+<p>In the field of AI, we also see open source developments, such as the dramatic announcement that openAI, ‘the most transformative technology of the 21st century’ is given away for free.</p>
+
+<p>Via free apps harvested big data and feedback from the users play a crucial role in the learning process of artificial intelligence. The technology learns by mass use. So, users are fulfilling their share in technology already. The proceeds of the technology are so at least in part to benefit the users.</p>
+
+<p>Knowledge and technology became increasingly intertwined over the years. We stand on the shoulders of giants. We benefit from the thinking of our ancestors. Some of those ancestors have put the decisive step at the right time in an invention that earned them a lot of money. Their children belong to the wealthy. Other ancestors were the critics who have contributed to the maturing of new ideas. Their children do not belong to the rich. There also were just farmers, workers and police officers who did their job so that the society could survive peacefully and knowledge could develop further. And there were ancestors, who fell for our freedom.</p>
+
+<p>To cut a long story. The status of development of knowledge and technology is to the credit of everyone. The fruits of that knowledge and technology also belong to everyone. Because everyone who is online, contributes to the further development of the technology, it is fair to pay them more than the pittance of the free app.</p>
+
+<h3 id="dividend-from-technology">Dividend from technology</h3>
+
+<p>Because in the long run, it is not possible for anyone to acquire an income by selling labor, income must be provided for in a different way. The other two production factors nature and technology should then provide our income. If everyone has a share in nature and technology, the technology could pay a dividend as basic income.</p>
+
+<p>If such income is not guaranteed to all unemployed, there will appear a serious problem on the demand side. These people are next to labor force also consumers.</p>
+
+<h3 id="role-as-a-consumer">Role as a consumer</h3>
+
+<p>I expect that the role of the consumer in the future is more important than the role of the labor. Companies can replace people with machines and artificial intelligence, but they still need customers.</p>
+
+<p>If labor no longer is a source of income than the redundant employee can no longer fulfill its role as a consumer. If this happens on a large scale, the affluent consumers will be scarce, and structural underspending looms. Then it will, therefore, become hard to make money with money. Where must the return on investment come from, if the product or service remains unsold? Eventually, all returns on investments directly or indirectly must be created by the production and sales of value to customers. No customers, no sales and no sales, no profit and no profit, no return on investment.</p>
+
+<p>At a time when the extremely rich get richer at the expense of a vast number of people in the middle-class, the time is getting closer that spending has dropped so, that investments yield no more return. Already, the 1% richest people own more than half of all the wealth on earth. Pretty soon they will have to hand out money to keep enough customers for the companies in which they have invested their money. Even the extremely wealthy are in need of the existence of customers because their capital grows through the real economy. If the real economy would not grow due to structural underspending and the 1% rich would nevertheless succeed to get 5% return on their capital, they would also own the other half of the earth within fourteen years. By then the other people will have become their ‘pets’, for which you may hope they will take care.</p>
+
+<p>If you have won a game of Monopoly, you put the money back in the box, and the game starts all over again. If the winner keeps the money, it’s finished with the game.</p>
+
+<h2 id="the-free-market">The ‘free’ market</h2>
+
+<p>The free market is regarded as the best (for some least bad) naturally fair distribution mechanism for adapting production to needs in today’s society. For years, the prevailing view was that competition would boost innovation and competitive prices. Value for your money. But is that so? We get a choice of many similar looking products that look attractive, cost few and quickly fall apart, to make room for new needs. But are these the products that we need? Do we get a chance to find out what we truly need, before the next offer already pops up?</p>
+
+<h3 id="customer-focus">Customer focus</h3>
+
+<p>Commercial people talk about customer focus, customer first, to us the customer is number one, but they pay little attention to what the customer says. The client is facing a frenzied segmentation of products that all look alike. Once you as a customer want something different, it is not to be found, and so probably not for sale. Try to find a product on the Internet. An endless stream of almost identical products with the same endorsements appears. Where is that long tale? I see only more of the same. Numerous brands and products are vying for the same consumer income.</p>
+
+<h3 id="big-data">Big data</h3>
+
+<p>Marketers have high expectations of the role that big data can play in this. Big data provides information on the (spending) behavior and the needs of people (consumers) and thus offers a tool to listen to the customers, fantastic!</p>
+
+<p>But most marketers rather than listening see the opportunities it provides to direct a message to the right customer as by controlling the placement of ads by Google. This advertising is aimed to influence consumers choice when spending his income. But that’s a pity, as we can now listen to the customers directly with big data, it is no longer necessary to influence them to desire the large-scale production of (almost) identical products.</p>
+
+<h2 id="steering-the-economic-system">Steering the economic system</h2>
+
+<p>If AI is capable of analyzing big data to find out which ad to present to each customer, then with the same intelligence it can also steer the production and distribution of goods and services directly. This technology can learn to work along with the earth systems rather than just rely on the wishes of customers. A free market competition and costly marketing are no longer necessary. Not the competition to earn Euros, but the information about the behavior of people and ecosystems forms the basis for controlling the economic system. No planned economy, lead by the government, but an intelligent system based on big data. Collecting big data would then not be limited to data on the (manipulated) human behavior and the economic system, but also include the data in the ecosystems.</p>
+
+<h3 id="algorithms">Algorithms</h3>
+
+<p>Where profit was the incentive for the functioning of the market, information now becomes the basis for decision making in an economic system controlled by artificial intelligence. Financial markets are controlled by algorithms already, so why not the distribution of scarcity and wealth? It just depends on the purpose of the algorithms. The algorithms of the financial world are written to maximize investment returns. Algorithms for the marketing analyze big data with the aim of influencing the potential consumer. There may equally well be algorithms which directly establish the most efficient adjustment of production and distribution to meet the needs of people.</p>
+
+<p>> Information rules the world, so why not the economic system?</p>
+
+<h3 id="intrinsic-needs">Intrinsic needs</h3>
+
+<p>With a technology can be earned as much as with the yield of its sold products. Therefore technology must produce what people can and want to buy with the income from their share of technology. No products based on needs influenced by marketing but products that meet the intrinsic needs of man as part of the ecosystem earth.</p>
+
+<p>>“We now know what detergent customers want, but what detergent wants the river?”</p>
+
+<p>>Michal Braungart and William McDonough[fn:5]</p>
+
+<p>We need products and services that are realized using intelligent technology using natural sources, which provide people with a healthy life in a clean environment. Since we are increasingly successful in performing labor with machines and further developing technology with learning intelligence, we may come to the stage that we can let nature work for us with our technology.</p>
+
+<p>A perpetual motion machine? No, everything will be driven by the energy of the sun.</p>
+
+<h2 id="empathy">Empathy</h2>
+
+<p>All not by technology services, such as raising your kids, taking care of your parents, helping others with your experience and knowledge and the giving and receiving of attention to your fellow man (not via Facebook) will remain to be done by people. Voluntarily carried out from empathy. If the technology ensures sufficient income and prosperity for all, there is plenty of time and opportunity to be human, and to care about others.</p>
+
+<p>The money will then only be of interest as a means of regulating freedom of choice, such as ‘time of life’, which you also can spend only once.</p>
+
+<h1 id="footnotes">Footnotes</h1>
+
+<p>[fn:8] Erik Brynjolfsson. The second machine age: work, progress, and prosperity at a time of brilliant technologies. First edition. edition, 2014.</p>
+
+<p>[fn:7] Kurzweill</p>
+
+<p>[fn:6] Janine M. Benyus. Biomimicry: Innovation Inspired by Nature. Harper Perennial, 2002–09–17.</p>
+
+<p>[fn:5] Michael Braungart and William McDonough. Cradle to Cradle: Waste equals food. Search Knowledge Scriptum, Heeswijk, 2008.</p>
+
+<p>[fn:4] Martin Ford. Rise of the Robots: Technology and the threat of a jobless future. 2015.</p>
+
+<p>[fn:3] Chr. G. van Leeuwen. Ekologie 1 (071 a 01): brief syllabus 1979–1980–1st quarter. Technical University Delft, 1979.</p>
+
+<p>[fn:2] National Geographic. Mysteries of the unseen world. YouTube, in 2015.</p>
+
+<p>[fn:1] Source: http://www.ensie.nl/definitie/Economie</p>
+
+  </div>
+
+  <div id=links>
+    
+      <a class="basic-alignment left" href="https://michelmooij.github.io/writing/verhaal3/">&laquo; verhaal3</a>
+    
+    
+  </div>
+</section>
+
+  
+</body>
+</html>
+
+
+
