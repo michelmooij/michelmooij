@@ -7,28 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017 Michel Mooij</copyright>
-    <lastBuildDate>Sun, 19 Mar 2017 22:01:27 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2017 17:10:13 +0100</lastBuildDate>
     <atom:link href="https://michelmooij.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>home</title>
-      <link>https://michelmooij.github.io/home/</link>
-      <pubDate>Sun, 19 Mar 2017 22:01:27 +0100</pubDate>
-      
-      <guid>https://michelmooij.github.io/home/</guid>
-      <description>&lt;p&gt;Welcome at my site about the balance of work and technology in society. I hope you enjoy reading my writing and invite you to respond.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>home</title>
-      <link>https://michelmooij.github.io/home/home/</link>
-      <pubDate>Sun, 19 Mar 2017 20:57:57 +0100</pubDate>
-      
-      <guid>https://michelmooij.github.io/home/home/</guid>
-      <description>&lt;p&gt;Welcome at my site about the balance of work and technology in society. I hope you enjoy reading my writing and invite you to respond.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>AI BigData and the Distribution of Wealth</title>
@@ -285,7 +265,8 @@
       <pubDate>Tue, 14 Mar 2017 19:08:21 +0100</pubDate>
       
       <guid>https://michelmooij.github.io/about/</guid>
-      <description></description>
+      <description>&lt;p&gt;I am Michel Mooij&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -494,6 +475,16 @@
 &lt;h4 id=&#34;1991-1994&#34;&gt;1991-1994&lt;/h4&gt;
 
 &lt;p&gt;Regelmatige publicatie van artikelen over Facility Management, huisvesting en bouwmanagement, waaronder enkele bijdragen aan het Facility Management Handboek en een publicatie in FM Journal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://michelmooij.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelmooij.github.io/home/</guid>
+      <description>&lt;p&gt;Welcome at my site about the balance of work and technology in society. I hope you enjoy reading my writing and invite you to respond.&lt;/p&gt;
 </description>
     </item>
     

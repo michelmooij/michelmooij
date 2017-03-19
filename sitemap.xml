@@ -2,16 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://michelmooij.github.io/home/</loc>
-    <lastmod>2017-03-19T22:01:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michelmooij.github.io/home/home/</loc>
-    <lastmod>2017-03-19T20:57:57+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michelmooij.github.io/writing/AI-BigData-and-the-Distribution-of-Prosperity/</loc>
     <lastmod>2017-03-17T17:10:13+01:00</lastmod>
   </url>
@@ -69,13 +59,11 @@
   
   <url>
     <loc>https://michelmooij.github.io/home/</loc>
-    <lastmod>2017-03-19T20:57:57+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://michelmooij.github.io/</loc>
-    <lastmod>2017-03-19T22:01:27+01:00</lastmod>
+    <lastmod>2017-03-17T17:10:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
