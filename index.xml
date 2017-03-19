@@ -6,6 +6,7 @@
     <description>Recent content on Michel Mooij</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>Copyright © 2017 Michel Mooij</copyright>
     <lastBuildDate>Fri, 17 Mar 2017 17:10:13 +0100</lastBuildDate>
     <atom:link href="https://michelmooij.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -240,6 +241,16 @@
     </item>
     
     <item>
+      <title>verhaal1</title>
+      <link>https://michelmooij.github.io/writing/verhaal1/</link>
+      <pubDate>Wed, 15 Mar 2017 17:46:10 +0100</pubDate>
+      
+      <guid>https://michelmooij.github.io/writing/verhaal1/</guid>
+      <description>&lt;p&gt;Hallo hier staat het eerste verhaal&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>writing1</title>
       <link>https://michelmooij.github.io/writing/writing1/</link>
       <pubDate>Tue, 14 Mar 2017 19:10:31 +0100</pubDate>
@@ -249,7 +260,7 @@
     </item>
     
     <item>
-      <title>writing.writing1</title>
+      <title>about</title>
       <link>https://michelmooij.github.io/about/</link>
       <pubDate>Tue, 14 Mar 2017 19:08:21 +0100</pubDate>
       
@@ -268,10 +279,10 @@
     
     <item>
       <title>eerste post</title>
-      <link>https://michelmooij.github.io/post/eerste-post/</link>
+      <link>https://michelmooij.github.io/blog/eerste-post/</link>
       <pubDate>Tue, 14 Mar 2017 18:47:34 +0100</pubDate>
       
-      <guid>https://michelmooij.github.io/post/eerste-post/</guid>
+      <guid>https://michelmooij.github.io/blog/eerste-post/</guid>
       <description>&lt;h1 id=&#34;eerste-titel&#34;&gt;Eerste titel&lt;/h1&gt;
 
 &lt;p&gt;Hier komt een heel verhaal&lt;/p&gt;
@@ -300,7 +311,7 @@
     </item>
     
     <item>
-      <title>Resume Michel</title>
+      <title>Resume</title>
       <link>https://michelmooij.github.io/resume/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
