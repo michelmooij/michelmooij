@@ -3,6 +3,11 @@
   
   <url>
     <loc>https://michelmooij.github.io/home/</loc>
+    <lastmod>2017-03-19T22:01:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michelmooij.github.io/home/home/</loc>
     <lastmod>2017-03-19T20:57:57+01:00</lastmod>
   </url>
   
@@ -63,8 +68,14 @@
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/</loc>
+    <loc>https://michelmooij.github.io/home/</loc>
     <lastmod>2017-03-19T20:57:57+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michelmooij.github.io/</loc>
+    <lastmod>2017-03-19T22:01:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
