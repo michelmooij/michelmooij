@@ -11,35 +11,16 @@
     <atom:link href="https://michelmooij.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>eerste post</title>
-      <link>https://michelmooij.github.io/blog/eerste-post/</link>
+      <title>I have a confession to make</title>
+      <link>https://michelmooij.github.io/blog/i-have-a-confession-to-make/</link>
       <pubDate>Tue, 14 Mar 2017 18:47:34 +0100</pubDate>
       
-      <guid>https://michelmooij.github.io/blog/eerste-post/</guid>
-      <description>&lt;h1 id=&#34;eerste-titel&#34;&gt;Eerste titel&lt;/h1&gt;
+      <guid>https://michelmooij.github.io/blog/i-have-a-confession-to-make/</guid>
+      <description>&lt;p&gt;I sincerely believed that my vision of &amp;lsquo;new ways of working&amp;rsquo; was all about the impact of IT, enabling new office concepts to increase productivity with less office space. But now I see that it evolves into the implementation of artificial intelligence, providing ways to work with fewer people.&lt;/p&gt;
 
-&lt;p&gt;Hier komt een heel verhaal&lt;/p&gt;
-
-&lt;h2 id=&#34;tweede-niveau&#34;&gt;Tweede niveau&lt;/h2&gt;
-
-&lt;p&gt;;alksdjf;lkjasdkl&lt;/p&gt;
-
-&lt;p&gt;lkj kj ;klj&lt;/p&gt;
-
-&lt;h2 id=&#34;kj-kjklj-klj&#34;&gt;kj;kjklj klj&lt;/h2&gt;
-
-&lt;p&gt;lkjlkjlkjlk&lt;/p&gt;
-
-&lt;h3 id=&#34;kjlkj-lkj&#34;&gt;kjlkj;lkj&lt;/h3&gt;
-
-&lt;p&gt;lkjlkjlkjlkjlk&lt;/p&gt;
-
-&lt;p&gt;lkjlkjlkjlk&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;lkjlkjlkj&lt;/li&gt;
-&lt;li&gt;kjlkjlkjlk&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;To paraphrase the title of the book by my colleague Erik Veldhoen, &amp;lsquo;The demise of the office’, I fear for the &amp;lsquo;demise of the employee&amp;rsquo;.
+In spite of all the compelling prospects of active, healthy work styles, and inspiring work environments, there is a future looming without work for most of us.
+&lt;a href=&#34;../images/confession.jpg&#34;&gt;confession&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
