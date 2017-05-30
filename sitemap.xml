@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://michelmooij.github.io/writing/AI-BigData-and-the-Distribution-of-Wealth/</loc>
+    <loc>https://michelmooij.github.io/writing/ai-bigdata-and-the-distribution-of-wealth/</loc>
     <lastmod>2017-03-17T17:10:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michelmooij.github.io/resume/</loc>
+    <lastmod>2017-03-16T16:25:14+01:00</lastmod>
   </url>
   
   <url>
@@ -27,13 +33,18 @@
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/resume/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://michelmooij.github.io/blog/</loc>
+    <lastmod>2017-03-14T18:47:34+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://michelmooij.github.io/blog/</loc>
-    <lastmod>2017-03-14T18:47:34+01:00</lastmod>
+    <loc>https://michelmooij.github.io/bw/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michelmooij.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -50,6 +61,16 @@
   <url>
     <loc>https://michelmooij.github.io/project/</loc>
     <lastmod>2017-03-16T16:25:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michelmooij.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michelmooij.github.io/true/</loc>
     <priority>0</priority>
   </url>
   

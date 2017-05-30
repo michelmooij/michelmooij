@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Michel Mooij</title>
-    <link>https://michelmooij.github.io/blog/index.xml</link>
+    <link>https://michelmooij.github.io/blog/</link>
     <description>Recent content in Blog on Michel Mooij</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017 Michel Mooij</copyright>
     <lastBuildDate>Tue, 14 Mar 2017 18:47:34 +0100</lastBuildDate>
-    <atom:link href="https://michelmooij.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://michelmooij.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>I have a confession to make</title>
@@ -16,11 +18,7 @@
       <pubDate>Tue, 14 Mar 2017 18:47:34 +0100</pubDate>
       
       <guid>https://michelmooij.github.io/blog/i-have-a-confession-to-make/</guid>
-      <description>&lt;p&gt;I sincerely believed that my vision of &amp;lsquo;new ways of working&amp;rsquo; was all about the impact of IT, enabling new office concepts to increase productivity with less office space. But now I see that it evolves into the implementation of artificial intelligence, providing new ways to work with fewer people.
-&lt;img src=&#34;../images/confession.jpg&#34; alt=&#34;confession&#34; /&gt;
-To paraphrase the title of the book by my colleague Erik Veldhoen, &lt;em&gt;&amp;lsquo;The demise of the office’&lt;/em&gt;, I fear for &lt;em&gt;&amp;lsquo;The demise of the employee&amp;rsquo;.&lt;/em&gt;
-In spite of all the compelling prospects of active, healthy work styles, and inspiring work environments, there is a future looming without work for most of us.&lt;/p&gt;
-</description>
+      <description>I sincerely believed that my vision of &amp;lsquo;new ways of working&amp;rsquo; was all about the impact of IT, enabling new office concepts to increase productivity with less office space. But now I see that it evolves into the implementation of artificial intelligence, providing new ways to work with fewer people. To paraphrase the title of the book by my colleague Erik Veldhoen, &amp;lsquo;The demise of the office’, I fear for &amp;lsquo;The demise of the employee&amp;rsquo;.</description>
     </item>
     
   </channel>

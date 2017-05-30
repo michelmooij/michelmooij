@@ -2,259 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michel Mooij</title>
-    <link>https://michelmooij.github.io/index.xml</link>
+    <link>https://michelmooij.github.io/</link>
     <description>Recent content on Michel Mooij</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017 Michel Mooij</copyright>
     <lastBuildDate>Fri, 17 Mar 2017 17:10:13 +0100</lastBuildDate>
-    <atom:link href="https://michelmooij.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://michelmooij.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Artificial Intelligence, Big Data and the Distribution of Wealth</title>
-      <link>https://michelmooij.github.io/writing/AI-BigData-and-the-Distribution-of-Wealth/</link>
+      <link>https://michelmooij.github.io/writing/ai-bigdata-and-the-distribution-of-wealth/</link>
       <pubDate>Fri, 17 Mar 2017 17:10:13 +0100</pubDate>
       
-      <guid>https://michelmooij.github.io/writing/AI-BigData-and-the-Distribution-of-Wealth/</guid>
-      <description>
-
-&lt;p&gt;&lt;em&gt;Is the free market is still able to steer the production and distribution of goods and services to sustain a peaceful society or is it time to replace it by a new economic system which uses AI to distribute the wealth with algorithms and big data?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/HenkRobotDieren.jpg&#34; alt=&#34;Animal Robots&#34; title=&#34;Animal Robots, by Henk Mooij 1930-2015&#34; /&gt;
-&lt;em&gt;Animal Robots, by Henk Mooij 1930-2015&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;rtificial Intelligence (AI), I would rather call it high intelligence because it is not so much the artificiality that matters, but the fact that it will soon be superior to human intelligence. Intelligence, which has beaten humans already in games like chess, Jeopardy, and Go, will not allow humans to mislead her. For example, it will instantly expose the irrational behavior of people in the economy.&lt;/p&gt;
-
-&lt;p&gt;Big data, in my opinion, has an emphasis on lots of data, particularly because quantity of data matter in an analysis. Also others sources like the physical environment or nature itself should attribute to the collection of big data.&lt;/p&gt;
-
-&lt;p&gt;Finally, I suggest to relativize the in the economy as high excited social connectedness of human beings and also to look at the biological connection to our physical world, nature.&lt;/p&gt;
-
-&lt;h2 id=&#34;intelligence&#34;&gt;Intelligence&lt;/h2&gt;
-
-&lt;p&gt;Let’s start with this great intelligence, which I will refer further with AI. In commercial use of AI, the developers often choose a client oriented approach. The developers want to make money in the actual economic system, but they forget that their AI will radically change economics. Take for example the AI of the speech technology user interface &lt;a href=&#34;http://viv.ai/&#34;&gt;Viv&lt;/a&gt;, a further development of Siri, which understands what you are asking and gives answers based on a profile of your earlier questions. Viv learns your preferences and always knows what you want. That brings us to the next question.&lt;/p&gt;
-
-&lt;p&gt;Must AI rely on information about what we (customers) desire most? Or should AI help us in understanding the laws of reality around us? Do we want information adjusted to our wishes and conduct, aimed at presenting attractive offers in an adequate way (such as Facebook, Google, ViV, etc.)? Or do we want information that precisely reflects reality and helps us to understand better the world (such as scientific computer simulations based on nanoscopy&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, radio telescope&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, time-lapse and high-speed shooting&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, or only Google Earth)?&lt;/p&gt;
-
-&lt;p&gt;With AI machines indeed learn to model the reality as well as possible, but they are also used to please the people with adequate information to their needs and wishes.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;It’s as if someone who stands before the window and obstructs to look out, tells you what there is to see outside.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;That is pretty much the definition of manipulation. In this way, AI takes thinking and judgment out of your hands in exchange for convenience and instant gratification. If AI through deep learning&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; learns to behave with customer focus instead of unlocking the world to us, we are far from home. Marketing based on customer focus until now has considerably disturbed the natural order of things in the world already. With IA this will rapidly become worse. To clarify this, I need to explain a bit of the economics. What is economics precisely?&lt;/p&gt;
-
-&lt;h2 id=&#34;economics&#34;&gt;Economics&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;“The science that deals with the distribution of scarce resources (goods and services) in society. It focuses on the creation of products and the distribution of these commodities. The concept of scarcity plays in the economy a significant role.”&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;When I read that, I instantly thought, are non-scarce goods and services considered not within the focus area of economics? There are a lot of them. All digital products produced by IT that can be replicated without lowering returns and no loss of quality at almost no cost, such as music, movies, books, knowledge and data, are they not scarce goods? And would they not be part of the economy?&lt;/p&gt;
-
-&lt;p&gt;According to the theory, our economic system focuses on in a free market matching of demand and supply of scarce goods and services produced in society by primary production factors nature and labor and secondary production factor capital. But that’s theory; the reality is different.&lt;/p&gt;
-
-&lt;p&gt;The economic system is controlled by social systems. Marketing, advertising, social media and income inequality, manipulate the needs and desires of the people. Carefully managed scarcity leads the ‘free’ market, which should independently regulate demand and supply. This manipulation happens mainly digital, visible through Facebook, Google, and others, but also obscured by algorithms that change the results and show ads based on your profile and big data.&lt;/p&gt;
-
-&lt;p&gt;The economic system is based on the idea that wealth is created by our hard work and accordingly distributed according to social conventions. ‘There is no such thing as a free ride’ is the expression. The more efficiently we work, the more we can achieve, but ‘ Who does not work shall not eat.’&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;the-role-of-labor&#34;&gt;The role of labor&lt;/h3&gt;
-
-&lt;p&gt;In production, we have introduced the division of labor&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:7&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; and in the distribution of (scarce) goods and services we use to trade on the open market. Business and division of labor are building blocks of our society in which we work in many different occupations, where each does what he can best. And thus the whole functions better. A social construct. Great, but there must be work in all kinds, to realize the division of labor and there must be income, to have a trade.&lt;/p&gt;
-
-&lt;p&gt;Because what will remain of the community, if work and the division of labor disappear? Will social interaction still be a solution, when the economic system fails, and it will no longer be possible to earn money with work? Should we fight to distribute the scarce labor, while meanwhile, AI can produce in abundance? And even when machines create wealth, does it make a difference whether we behave socially, or not? Now it is said to the unemployed, that it is important to get involved because it will raise the chances that you will find new work&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;. This reasoning is based on the old work ethic.&lt;/p&gt;
-
-&lt;p&gt;As jobs disappear due to automation, it does not make any difference if you were applying for a job through your network, letters, LinkedIn, or other social media. It is not communication on the labor market that does not work; it is the market that stagnates as demand for labor drops.&lt;/p&gt;
-
-&lt;p&gt;The economic system will not work as the intended distribution mechanism whereby the money runs opposite to the flow of goods but begins to degenerate into a money pump, which hunts the money into one direction. The economic system is broke. With the disappearance of labor as a factor of production, also disappears the basis for the division of labor and thus the structure of our socioeconomic system. The economic system must evolve towards a system where scarcity and abundance are distributed in a technological way. Using renewable resources such as the solar and cyclic use of materials from renewable resources, as nature does.&lt;/p&gt;
-
-&lt;h3 id=&#34;ecological-context&#34;&gt;Ecological context&lt;/h3&gt;
-
-&lt;p&gt;We have overrated people in their social context too long. It is now time to see humanity in his biological and environmental context. We are much more connected with each other, then just as dolls, which play a game together. We are one with the ecosystem&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:9&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; of the cosmos. We eat our environment, breathe our environment, walk through our environment, shit in our environment, die in our environment and are eaten by our environment, yet we still do not see the environment! We think it’s a beautiful decor, offered by God with cupboards filled with raw materials. At best, we feel responsible for the management, if God has appointed us as His stewards.&lt;/p&gt;
-
-&lt;p&gt;What arrogance! We are just a part of the whole. No less and no more than any other combination of energy and matter.&lt;/p&gt;
-
-&lt;h3 id=&#34;a-people-thing&#34;&gt;A people-thing&lt;/h3&gt;
-
-&lt;p&gt;We thought that the economy was a ‘people-thing’, but it is much more. The distribution of scarcity and abundance is not limited to people alone. Moreover, there are already active many distribution mechanisms, which we hardly know and, due to the limit of human thinking not see, let alone be able to control. Our mortality is one of them. “Ashes to ashes, dust to dust,” the Phoenix is ​​the symbol of death and rebirth to evolve. Likewise, technology evolves by generations, as the S-curves that follow each other in the big S-curve of technology development.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Ford2015aa&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:Ford2015aa&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;production-factors&#34;&gt;Production factors&lt;/h3&gt;
-
-&lt;p&gt;The economic system revolves around the production factors nature, labor, and capital. Each of these factors of production has an internal rate of return.&lt;/p&gt;
-
-&lt;p&gt;Capital grows herself. With some money you earn money. Technology is a capital good and ever originated from natural sources and labor. Technology now develops further through the investment of capital, labor (especially knowledge) and the application of previously developed technology. Through the use of technology in the development of technology (machine learning), the progress is exponential&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Brynjolfsson2014aa&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:Brynjolfsson2014aa&#34;&gt;11&lt;/a&gt;&lt;/sup&gt;. The share of labor in technology is getting smaller.&lt;/p&gt;
-
-&lt;p&gt;Labor has the internal rate of return, to acquire experience and knowledge, which give more outcome with the same labor. Someone who gets paid per produced result gets the benefits of his experience. But someone who works on an hourly basis just has to wait and see if he gets a salary increase based on the accumulated experience.&lt;/p&gt;
-
-&lt;p&gt;Natural resources have an internal rate of return in the form of recovery within the ecosystem. If the natural balance is not disturbed, refresh the natural resources within a given cycle. Knowledge of the life cycles and how to close them, are necessary to prevent the depletion of natural resources.&lt;/p&gt;
-
-&lt;h2 id=&#34;transformation-to-capital-asset&#34;&gt;Transformation to capital asset&lt;/h2&gt;
-
-&lt;p&gt;Despite the differences between the production factors, they are gradually transformed into a capital asset in the course of history.&lt;/p&gt;
-
-&lt;p&gt;Nature has been made a capital asset long ago by land ownership. Because of the scarcity, caused by the depletion of natural resources, the value of the yield of this capital asset also grows. At the same time, everyone can see that its value of natural resource decreases. More recently as a consequence of genetic engineering also varieties of crops became a capital asset. Farmers may not use the seeds of crops to sow new themselves. The crop and seed are owned by a company&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:10&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:10&#34;&gt;12&lt;/a&gt;&lt;/sup&gt;, which has acquired the right to a portion of Nature, by genetic engineering.&lt;/p&gt;
-
-&lt;p&gt;Labor is a capital asset because the optimization of production processes usually involves the replacement of people by machines which can perform the processes faster, more reliable and under unsuitable conditions for humans. In manufacturing the share of technology now supersedes the share of employment. There is nothing wrong with that. We learn more and work smarter, with better technology (tools) we can achieve more. But technology is a capital asset and is owned by an investor and not in the hands of the person who works better. Productivity improvement is a yield for the owner of the technology and not for the man or woman who does the job.&lt;/p&gt;
-
-&lt;p&gt;Technology is a capital asset, originated from natural resources, labor and previously developed technology. In whose hands is this gradually encompassing capital asset? Is the economic system then exclusively about capital? Then indeed we live in the world of finance, where algorithms (technology) are used to multiply money without any relation to the real economy&lt;/p&gt;
-
-&lt;h2 id=&#34;a-share-in-the-production-factors&#34;&gt;A share in the production factors&lt;/h2&gt;
-
-&lt;p&gt;Since people are part of the living earth, they have a right to a share in the wealth of the earth. But they are also obliged to take responsibility and fulfill their role in the ecosystem of the earth, like in the economic system.&lt;/p&gt;
-
-&lt;p&gt;Everyone should have a right to a share of nature, a share in capital and a share in labor. Not the one right to work, the other the right to own the riches of nature and another right at the historically accumulated capital and its growth. And every human being should have the duty to contribute to each of the three.&lt;/p&gt;
-
-&lt;p&gt;Capital originated from nature and labor and must continue to serve the production of goods and services. It should not jam the hands of a small group of people who do not know better than just subsidize some charities.&lt;/p&gt;
-
-&lt;p&gt;Technology should play a role in nature, not at the expense of nature to create capital, but with nature as part of the evolution (Biomimicry&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:11&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:11&#34;&gt;13&lt;/a&gt;&lt;/sup&gt;, Singularity&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:12&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:12&#34;&gt;14&lt;/a&gt;&lt;/sup&gt;). The revenue of technology and the revenue of nature then will be the same, in which revenue sharing everyone belongs.&lt;/p&gt;
-
-&lt;p&gt;If labor is no longer necessary, then thinking must aim at the increase of knowledge, to better understand Nature and to advance technology. This can be done through research, development of ideas, art, self-chosen work and getting involved with nature.&lt;/p&gt;
-
-&lt;p&gt;Our economic system gives benefits to the owners of technology at the expense of the providers of labor, who were expelled from the economic system by the same technology.&lt;/p&gt;
-
-&lt;h2 id=&#34;technology-and-labor&#34;&gt;Technology and labor&lt;/h2&gt;
-
-&lt;p&gt;Sharing the shrinking demand for labor will eventually not work. If society cannot fulfill the right to work, then it may be time for the right to a share in the technology.&lt;/p&gt;
-
-&lt;h3 id=&#34;a-share-in-the-technology&#34;&gt;A share in the technology?&lt;/h3&gt;
-
-&lt;p&gt;The idea of a share in the technology for all is not so farfetched because we already get free apps in exchange for feedback on the evolving technology. The technology learns through use by people.&lt;/p&gt;
-
-&lt;p&gt;Development of image recognition software, for example, is possible by making use of all the photos that people upload free of charge in exchange for the free use of a handy photo app.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;You could say that ‘AI learns at the expense of the customer.’&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A good example is the use of ‘free’ staff for training the Natural Language Generation Software, called Quill of Narrative Science. Quill has two faces, commercial and idealistic. The commercial face presents the opportunity to write computerized items by collected data. Newspapers and websites can use Quill to do the work of journalists. Quill is capable of writing a message based on facts on the internet in such a natural language that the average reader will not notice the difference with a text written by a man, for example at Forbes&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:13&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:13&#34;&gt;15&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Over the past three months, the consensus estimate has sagged from $ 1.25. For the fiscal year, analysts are expecting earnings of $ 5.75 per share. A year after being $ 1.37 billion, analysts expect revenue to fall 1% year-over-year to $ 1.35 billion for the quarter. For the year, revenue is expected to come in at $ 5.93 billion.&lt;/p&gt;
-
-&lt;p&gt;A year-over-year drop in revenue in the fourth quarter broke a three-quarter streak of revenue Increases.&lt;/p&gt;
-
-&lt;p&gt;The company has been profitable for the last eight quarters, and for the last four, profit Has Risen year-on-year by an average of 16%. The biggest boost for the company came in the third quarter, When profit jumped by 32%.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The idealistic vision of Quill offers a free application for education to teach better writing. Quill allows pupils and students to improve their writing skills by finding and correcting mistakes in texts in interaction with Quill. The student learns to write better, and the AI of Quill is trained to work better, so the commercial application can replace more professional writers.&lt;/p&gt;
-
-&lt;p&gt;In the field of AI, we also see open source developments, such as the dramatic announcement that openAI&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:14&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:14&#34;&gt;16&lt;/a&gt;&lt;/sup&gt;, ‘the most transformative technology of the 21st century’ is given away for free.&lt;/p&gt;
-
-&lt;p&gt;Via free apps harvested big data and feedback from the users play a crucial role in the learning process of artificial intelligence. The technology learns by mass use. So, users are fulfilling their share in technology already. The proceeds of the technology are so at least in part to benefit the users.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/socialbrain.png&#34; alt=&#34;Social Brain&#34; title=&#34;Social Brain, by Henk Mooij 1930-2015&#34; /&gt;
-&lt;em&gt;Social Brain, by Henk Mooij 1930-2015&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Knowledge and technology became increasingly intertwined over the years. We stand on the shoulders of giants. We benefit from the thinking of our ancestors. Some of those ancestors have put the decisive step at the right time in an invention that earned them a lot of money. Their children belong to the wealthy. Other ancestors were the critics who have contributed to the maturing of new ideas. Their children do not belong to the rich. There also were just farmers, workers and police officers who did their job so that the society could survive peacefully and knowledge could develop further. And there were ancestors, who fell for our freedom.&lt;/p&gt;
-
-&lt;p&gt;To cut a long story. The status of development of knowledge and technology is to the credit of everyone. The fruits of that knowledge and technology also belong to everyone. Because everyone who is online, contributes to the further development of the technology, it is fair to pay them more than the pittance of the free app.&lt;/p&gt;
-
-&lt;h3 id=&#34;dividend-from-technology&#34;&gt;Dividend from technology&lt;/h3&gt;
-
-&lt;p&gt;Because in the long run, it is not possible for anyone to acquire an income by selling labor, income must be provided for in a different way. The other two production factors nature and technology should then provide our income. If everyone has a share in nature and technology, the technology could pay a dividend as basic income.&lt;/p&gt;
-
-&lt;p&gt;If such income is not guaranteed to all unemployed, there will appear a serious problem on the demand side. These people are next to labor force also consumers.&lt;/p&gt;
-
-&lt;h3 id=&#34;role-as-a-consumer&#34;&gt;Role as a consumer&lt;/h3&gt;
-
-&lt;p&gt;I expect that the role of the consumer in the future is more important than the role of the labor. Companies can replace people with machines and artificial intelligence, but they still need customers.&lt;/p&gt;
-
-&lt;p&gt;If labor no longer is a source of income than the redundant employee can no longer fulfill its role as a consumer. If this happens on a large scale, the affluent consumers will be scarce, and structural underspending looms. Then it will, therefore, become hard to make money with money. Where must the return on investment come from, if the product or service remains unsold? Eventually, all returns on investments directly or indirectly must be created by the production and sales of value to customers. No customers, no sales and no sales, no profit and no profit, no return on investment.&lt;/p&gt;
-
-&lt;p&gt;At a time when the extremely rich get richer at the expense of a vast number of people in the middle-class, the time is getting closer that spending has dropped so, that investments yield no more return. Already, the 1% richest people own more than half of all the wealth on earth&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:15&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:15&#34;&gt;17&lt;/a&gt;&lt;/sup&gt;. Pretty soon they will have to hand out money to keep enough customers for the companies in which they have invested their money. Even the extremely wealthy are in need of the existence of customers because their capital grows through the real economy. If the real economy would not grow due to structural underspending and the 1% rich would nevertheless succeed to get 5% return on their capital, they would also own the other half of the earth within fourteen years. By then the other people will have become their ‘pets’, for which you may hope they will take care.&lt;/p&gt;
-
-&lt;p&gt;If you have won a game of Monopoly, you put the money back in the box, and the game starts all over again. If the winner keeps the money, it’s finished with the game.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-free-market&#34;&gt;The ‘free’ market&lt;/h2&gt;
-
-&lt;p&gt;The free market is regarded as the best (for some least bad) naturally fair distribution mechanism for adapting production to needs in today’s society. For years, the prevailing view was that competition would boost innovation and competitive prices. Value for your money. But is that so? We get a choice of many similar looking products that look attractive, cost few and quickly fall apart, to make room for new needs. But are these the products that we need? Do we get a chance to find out what we truly need, before the next offer already pops up?&lt;/p&gt;
-
-&lt;h3 id=&#34;customer-focus&#34;&gt;Customer focus&lt;/h3&gt;
-
-&lt;p&gt;Commercial people talk about customer focus, customer first, to us the customer is number one, but they pay little attention to what the customer says. The client is facing a frenzied segmentation of products that all look alike. Once you as a customer want something different, it is not to be found, and so probably not for sale. Try to find a product on the Internet. An endless stream of almost identical products with the same endorsements appears. Where is that long tale&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:16&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:16&#34;&gt;18&lt;/a&gt;&lt;/sup&gt;? I see only more of the same. Numerous brands and products are vying for the same consumer income.&lt;/p&gt;
-
-&lt;h3 id=&#34;big-data&#34;&gt;Big data&lt;/h3&gt;
-
-&lt;p&gt;Marketers have high expectations of the role that big data can play in this. Big data provides information on the (spending) behavior and the needs of people (consumers) and thus offers a tool to listen to the customers, fantastic!&lt;/p&gt;
-
-&lt;p&gt;But most marketers rather than listening see the opportunities it provides to direct a message to the right customer as by controlling the placement of ads by Google. This advertising is aimed to influence consumers choice when spending his income. But that’s a pity, as we can now listen to the customers directly with big data, it is no longer necessary to influence them to desire the large-scale production of (almost) identical products.&lt;/p&gt;
-
-&lt;h2 id=&#34;steering-the-economic-system&#34;&gt;Steering the economic system&lt;/h2&gt;
-
-&lt;p&gt;If AI is capable of analyzing big data to find out which ad to present to each customer, then with the same intelligence it can also steer the production and distribution of goods and services directly. This technology can learn to work along with the earth systems rather than just rely on the wishes of customers. A free market competition and costly marketing are no longer necessary. Not the competition to earn Euros, but the information about the behavior of people and ecosystems forms the basis for controlling the economic system. No planned economy, lead by the government, but an intelligent system based on big data. Collecting big data would then not be limited to data on the (manipulated) human behavior and the economic system, but also include the data in the ecosystems&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Leeuwen1979aa&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:Leeuwen1979aa&#34;&gt;19&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;algorithms&#34;&gt;Algorithms&lt;/h3&gt;
-
-&lt;p&gt;Where profit was the incentive for the functioning of the market, information now becomes the basis for decision making in an economic system controlled by artificial intelligence. Financial markets are controlled by algorithms already, so why not the distribution of scarcity and wealth? It just depends on the purpose of the algorithms. The algorithms of the financial world are written to maximize investment returns. Algorithms for the marketing analyze big data with the aim of influencing the potential consumer. There may equally well be algorithms which directly establish the most efficient adjustment of production and distribution to meet the needs of people.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Information rules the world, so why not the economic system?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;intrinsic-needs&#34;&gt;Intrinsic needs&lt;/h3&gt;
-
-&lt;p&gt;With a technology can be earned as much as with the yield of its sold products. Therefore technology must produce what people can and want to buy with the income from their share of technology. No products based on needs influenced by marketing but products that meet the intrinsic needs of man as part of the ecosystem earth.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;“We now know what detergent customers want, but what detergent wants the river?”&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Braungart2008aa&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:Braungart2008aa&#34;&gt;20&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We need products and services that are realized using intelligent technology using natural sources, which provide people with a healthy life in a clean environment. Since we are increasingly successful in performing labor with machines and further developing technology with learning intelligence, we may come to the stage that we can let nature work for us with our technology.&lt;/p&gt;
-
-&lt;p&gt;A perpetual motion machine? No, everything will be driven by the energy of the sun.&lt;/p&gt;
-
-&lt;h2 id=&#34;empathy&#34;&gt;Empathy&lt;/h2&gt;
-
-&lt;p&gt;All not by technology services, such as raising your kids, taking care of your parents, helping others with your experience and knowledge and the giving and receiving of attention to your fellow man (not via Facebook) will remain to be done by people. Voluntarily carried out from empathy. If the technology ensures sufficient income and prosperity for all, there is plenty of time and opportunity to be human, and to care about others.&lt;/p&gt;
-
-&lt;p&gt;The money will then only be of interest as a means of regulating freedom of choice, such as ‘time of life’, which you also can spend only once.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;Ten Dutch universities and research institutes have joined forces in a national center for nanoscopy, the Netherlands Centre for Electron Nanoscopy (NeCEN)
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;ASTRON, Dutch Institute for Radio Astronomy is actively involved in the future of radio astronomy in Europe and building the next generation radio telescope, the Square Kilometre Array (SKA).
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;The film Mysteries of the Unseen World offers stunning time-lapse and high-speed recordings &lt;a href=&#34;http://movies.nationalgeographic.com/movies/mysteries-of-the-unseen-world/&#34;&gt;http://movies.nationalgeographic.com/movies/mysteries-of-the-unseen-world/&lt;/a&gt;.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34;&gt;Deep Learning is a more current name for a neural network, which are able to learn from observation large amounts of information and therein recognize and continue to supplement and improve patterns.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:5&#34;&gt;&lt;a href=&#34;http://www.ensie.nl/definitie/Economie&#34;&gt;http://www.ensie.nl/definitie/Economie&lt;/a&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:6&#34;&gt;A passage from this book reading &amp;ldquo;For even when we were with you, this we commanded you, that if any would not work, neither should he eat&amp;rdquo;, (2 Thess. 3:10), was later adapted by Vladimir Lenin as an adage of the Soviet Union, &amp;ldquo;He who does not work, neither shall he eat&amp;rdquo;.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:6&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:7&#34;&gt;Division of labor is splitting tasks or work. This makes specialization possible, thereby achieving greater productivity.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:7&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:8&#34;&gt;Dutch social security act, called &amp;ldquo;praticipatiewet&amp;rdquo;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:8&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:9&#34;&gt;Ecology is one of the main directions of biology (study of living organisms or organisms such as plants, animals and humans) and is studying functional relationships between organisms and the environment, the external living conditions.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:9&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:Ford2015aa&#34;&gt;Martin Ford. Rise of the Robots: Technology and the threat of a jobless future. 2015.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Ford2015aa&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:Brynjolfsson2014aa&#34;&gt;Erik Brynjolfsson. The second machine age: work, progress, and prosperity at a time of brilliant technologies. First edition. edition, 2014.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Brynjolfsson2014aa&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:10&#34;&gt;The US chemical company Monsanto is the world leader in the field of genetic modification of seeds
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:10&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:11&#34;&gt;Biomimicry is the science and art of imitating the best biological ideas from nature to solve human problems. Source: Biommicry NL, &lt;a href=&#34;http://www.biomimicrynl.org&#34;&gt;http://www.biomimicrynl.org&lt;/a&gt;.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:11&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:12&#34;&gt;In 1993, Vernor Vinge wrote an essay on the technological singularity in which he argues that the exponential growth of science and technology for 2030 will lead to the creation of entities with an intelligence that is greater than that of humans.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:12&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:13&#34;&gt;Article in Forbes written by AI. &lt;a href=&#34;http://www.forbes.com/sites/narrativescience/2015/10/12/eps-estimates-down-for-j-m-smucker-in-past-month/#76b75fa845da&#34;&gt;http://www.forbes.com/sites/narrativescience/2015/10/12/eps-estimates-down-for-j-m-smucker-in-past-month/#76b75fa845da&lt;/a&gt;.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:13&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:14&#34;&gt;An initiative by Elon Musk, Sam Altman and their company to bring AI within reach of everyone who wants and can deepen the application of AI.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:14&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:15&#34;&gt;In the Netherlands, the richest 1% owns nearly a quarter of all abilities.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:15&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:16&#34;&gt;Long tale is the phenomenon that can be sold over the Internet products, which would be uneconomic in a physical store, due to the required shelf space. Since shelf space and virtual store is virtually free and unlimited.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:16&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:Leeuwen1979aa&#34;&gt;Chr. G. van Leeuwen. Ecology 1 (071 a 01): brief syllabus from 1979 to 1980 - 1st quarter. 1979.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Leeuwen1979aa&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:Braungart2008aa&#34;&gt;Michael Braungart and William McDonough. Cradle to Cradle: Waste equals food. Search Knowledge Scriptum, Heeswijk, 2008.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Braungart2008aa&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://michelmooij.github.io/writing/ai-bigdata-and-the-distribution-of-wealth/</guid>
+      <description>Is the free market is still able to steer the production and distribution of goods and services to sustain a peaceful society or is it time to replace it by a new economic system which uses AI to distribute the wealth with algorithms and big data?
+Animal Robots, by Henk Mooij 1930-2015
+Artificial Intelligence (AI), I would rather call it high intelligence because it is not so much the artificiality that matters, but the fact that it will soon be superior to human intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://michelmooij.github.io/resume/</link>
+      <pubDate>Thu, 16 Mar 2017 16:25:14 +0100</pubDate>
+      
+      <guid>https://michelmooij.github.io/resume/</guid>
+      <description>I graduated at the Academy of Architecture, Hanze University Groningen in 1980. After a successful period of architects practice I changed my carreer to Information Technology. After many a project in IT with Pandata(CAP Gemini) I decided to return to my architects roots and to combine both expertises. I joined Twijnstra Gudde, a Dutch consultancy firm, where I was involved in the introduction of Facility Management in the Netherlands in 1989.</description>
     </item>
     
     <item>
@@ -272,10 +47,7 @@
       <pubDate>Tue, 14 Mar 2017 19:08:21 +0100</pubDate>
       
       <guid>https://michelmooij.github.io/about/</guid>
-      <description>&lt;p&gt;As a management consultant and former architect, I advise organizations in the formulation of a spatial planning strategy. Based on my experience in architecture, urbanism, sustainability, information technolologie and the way of working I provide direction for the behavior of an organization in its spatial context. Recently I focus on the impact of technological unemployment and its impact on the design of cities in the future.&lt;/p&gt;
-
-&lt;p&gt;I share my knowledge by speaking at conferences and publishing in professional journals.&lt;/p&gt;
-</description>
+      <description>As a management consultant and former architect, I help organizations to formulate a spatial planning strategy. Based on my experience in architecture, urbanism, sustainability, information technolologie and the way of working I propose new insights in the behavior of organizations in their spatial context. For example on the impact of technological unemployment and its implications for urban design. I also share my knowledge by speaking at conferences and publishing in professional journals.</description>
     </item>
     
     <item>
@@ -293,178 +65,7 @@
       <pubDate>Tue, 14 Mar 2017 18:47:34 +0100</pubDate>
       
       <guid>https://michelmooij.github.io/blog/i-have-a-confession-to-make/</guid>
-      <description>&lt;p&gt;I sincerely believed that my vision of &amp;lsquo;new ways of working&amp;rsquo; was all about the impact of IT, enabling new office concepts to increase productivity with less office space. But now I see that it evolves into the implementation of artificial intelligence, providing new ways to work with fewer people.
-&lt;img src=&#34;./images/confession.jpg&#34; alt=&#34;confession&#34; /&gt;
-To paraphrase the title of the book by my colleague Erik Veldhoen, &lt;em&gt;&amp;lsquo;The demise of the office’&lt;/em&gt;, I fear for &lt;em&gt;&amp;lsquo;The demise of the employee&amp;rsquo;.&lt;/em&gt;
-In spite of all the compelling prospects of active, healthy work styles, and inspiring work environments, there is a future looming without work for most of us.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://michelmooij.github.io/resume/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelmooij.github.io/resume/</guid>
-      <description>&lt;h3 id=&#34;persoonlijke-gegevens&#34;&gt;PERSOONLIJKE GEGEVENS&lt;/h3&gt;
-
-&lt;p&gt;Michel Mooij M.Arch.&lt;/p&gt;
-
-&lt;p&gt;Geboren 26 september 1954 te Rotterdam&lt;/p&gt;
-
-&lt;p&gt;Telefoon +31(0)645480893&lt;/p&gt;
-
-&lt;p&gt;Email mooij.michel@icloud.com&lt;/p&gt;
-
-&lt;h3 id=&#34;profiel&#34;&gt;PROFIEL&lt;/h3&gt;
-
-&lt;p&gt;Als (project-)manager en architect/consultant weet ik ruim 25 jaar de verbinding te maken tussen de behoeften van mensen en organisaties en hun fysieke omgeving. Ik heb veel energie en weet mensen en organisaties op inspirerende wijze te leiden bij het realiseren van hun doelen.  Mijn brede ervaring en politieke realiteitszin stellen mij goed in staat om plannen geaccepteerd te krijgen en doelen/projecten op tijd en binnen budget te realiseren.&lt;/p&gt;
-
-&lt;h3 id=&#34;opleiding&#34;&gt;OPLEIDING&lt;/h3&gt;
-
-&lt;p&gt;1966-1972 HBS-B, Rotterdams Montessori Lyceum&lt;/p&gt;
-
-&lt;p&gt;1972-1978 Kandidaats architectuur, Bouwkunde TH Delft&lt;/p&gt;
-
-&lt;p&gt;1978-1980 Architect AvB, Academie van Bouwkunst Groningen&lt;/p&gt;
-
-&lt;p&gt;1987-1987 X+I=T automatiseringsopleiding, Pandata&lt;/p&gt;
-
-&lt;h3 id=&#34;cursussen&#34;&gt;CURSUSSEN&lt;/h3&gt;
-
-&lt;p&gt;1987 Acquisitietraining, Pandata&lt;/p&gt;
-
-&lt;p&gt;1987 Presentatietechniek, ISW&lt;/p&gt;
-
-&lt;p&gt;1990-1991 Projectmatig werken, Adviesvaardigheden, Delta denken, Interview- en gespreksvaardigheid, Persoonlijke presentatie, Facility management en I- en A-management, Twijnstra Gudde&lt;/p&gt;
-
-&lt;p&gt;1992 Acquisitietraining, Boertien&lt;/p&gt;
-
-&lt;p&gt;2006 Training Workshops geven, Boertien&lt;/p&gt;
-
-&lt;p&gt;2010 BREEAM expert training, DGBC&lt;/p&gt;
-
-&lt;p&gt;2013 Certificaat Pedagogische en Didactische Vaardigheden,&lt;/p&gt;
-
-&lt;h3 id=&#34;loopbaan&#34;&gt;LOOPBAAN&lt;/h3&gt;
-
-&lt;h4 id=&#34;2012-2014-hogeschooldocent-aan-de-haagse-hogeschool&#34;&gt;&lt;strong&gt;2012-2014 Hogeschooldocent&lt;/strong&gt; aan de Haagse Hogeschool,&lt;/h4&gt;
-
-&lt;p&gt;verantwoordelijk voor het verzorgen van onderwijs op het gebied van huisvestingsstrategie aan studenten van de bachelor opleiding Facility Management. Bijdragen aan de ontwikkeling van een nieuw curriculum.&lt;/p&gt;
-
-&lt;h4 id=&#34;2008-2012-senior-adviseur-eigenaar-van-workspace-holding&#34;&gt;&lt;strong&gt;2008-2012 Senior adviseur/eigenaar&lt;/strong&gt; van Workspace Holding,&lt;/h4&gt;
-
-&lt;p&gt;verantwoordelijk voor de voortzetting van Workspace consultancy en de participatie in Proven Workspace (september 2008-december 2010), waar ik als directeur naast mijn eigen projecten gezorgd heb voor een flinke upgrade van de externe profilering en de kennisontwikkeling van de medewerkers.&lt;/p&gt;
-
-&lt;h4 id=&#34;2006-2008-adviesgroep-manager-bij-hospitality-consultants&#34;&gt;&lt;strong&gt;2006-2008 Adviesgroep manager&lt;/strong&gt; bij Hospitality Consultants,&lt;/h4&gt;
-
-&lt;p&gt;eindverantwoordelijk voor de door de adviesgroep huisvestingsadvies uitgevoerde opdrachten op het gebied van huisvesting, projectmanagement en conceptontwikkeling.&lt;/p&gt;
-
-&lt;h4 id=&#34;2003-2006-senior-adviseur-bij-draaijer-partners&#34;&gt;&lt;strong&gt;2003-2006 Senior adviseur&lt;/strong&gt; bij Draaijer &amp; Partners,&lt;/h4&gt;
-
-&lt;p&gt;eindverantwoordelijk voor de door mij ingebrachte advies- en projectmanagementopdrachten, onder andere voor het Bouwfonds en de Rijksdienst voor het cultureel erfgoed RACM.&lt;/p&gt;
-
-&lt;h4 id=&#34;1997-2003-directeur-eigenaar-van-workspace-consultancy&#34;&gt;&lt;strong&gt;1997-2003 Directeur/eigenaar&lt;/strong&gt; van Workspace consultancy,&lt;/h4&gt;
-
-&lt;p&gt;verantwoordelijk voor talrijke opdrachten op het gebied van kantoorinnovatie en het &#34;Nieuwe Werken&#34;, onder meer voor het Ministerie van VROM, enkele grote (deel)gemeenten, grote banken en verzekeraars en de kantoordelen van enkele industrile bedrijven. Als ondernemer verantwoordelijk voor het bedrijfsresultaat.&lt;/p&gt;
-
-&lt;h4 id=&#34;1995-1997-adjunct-directeur-van-desenco-advies-en-projectmanagement&#34;&gt;&lt;strong&gt;1995-1997 Adjunct directeur&lt;/strong&gt; van Desenco Advies en Projectmanagement,&lt;/h4&gt;
-
-&lt;p&gt;verantwoordelijk voor de vakinhoudelijke ontwikkeling en innovatie van het bureau. Ik heb de dienstverlening verbreed en de professionaliteit vergroot, door intensief coachen van de medewerkers. Onder mijn verantwoordelijkheid voerde het bureau naast (her-)huisvestingsprojecten (investering 2-10 miljoen euro) haar eerste succesvolle kantoorinnovatie-opdrachten uit voor o.a. ING Bank Nederland.&lt;/p&gt;
-
-&lt;h4 id=&#34;1989-1995-senior-opdrachtleider-bij-twijnstra-gudde&#34;&gt;&lt;strong&gt;1989-1995 Senior opdrachtleider&lt;/strong&gt; bij Twijnstra Gudde,&lt;/h4&gt;
-
-&lt;p&gt;verantwoordelijk voor de projectmatige aanpak van opdrachten op het gebied van huisvesting en facility management, zoals:&lt;/p&gt;
-
-&lt;h4 id=&#34;1986-1989-projectleider-bij-pandata-cap-gemini&#34;&gt;&lt;strong&gt;1986-1989 Projectleider&lt;/strong&gt; bij Pandata (Cap Gemini),&lt;/h4&gt;
-
-&lt;p&gt;verantwoordelijk voor het leiden van automatiseringsprojecten in de fasen: informatieplanning, definitiestudie en basisontwerp, waaronder:&lt;/p&gt;
-
-&lt;h4 id=&#34;1984-1986-architect-partner-bij-architectenbureau-astma-partners-in-leiden&#34;&gt;&lt;strong&gt;1984-1986 Architect, partner&lt;/strong&gt; bij Architectenbureau Astma Partners in Leiden,&lt;/h4&gt;
-
-&lt;p&gt;verantwoordelijk voor kleinschalige projectontwikkeling en het ontwerp en de realisatie van middelgrote projecten in de woning- en utiliteitsbouw (investering 2-20 miljoen euro).&lt;/p&gt;
-
-&lt;h4 id=&#34;1983-1984-medewerkend-architect-bij-de-haagse-architecten-associatie&#34;&gt;&lt;strong&gt;1983-1984 Medewerkend architect&lt;/strong&gt; bij de Haagse Architecten Associatie,&lt;/h4&gt;
-
-&lt;p&gt;medeverantwoordelijk voor het ontwerp van de nieuwbouw van het diergeneeskundig laboratorium van de Rijksuniversiteit Utrecht (investering 30 miljoen euro).&lt;/p&gt;
-
-&lt;h4 id=&#34;1993-1983-assistent-ontwerper-bij-inbo-te-woudenberg&#34;&gt;&lt;strong&gt;1993-1983 Assistent ontwerper&lt;/strong&gt; bij INBO te Woudenberg,&lt;/h4&gt;
-
-&lt;p&gt;verantwoordelijk voor de uitwerking van woningbouwprojecten van schetsontwerp tot definitief ontwerp.&lt;/p&gt;
-
-&lt;h4 id=&#34;1981-1983-gastdocent-aan-de-academie-van-bouwkunst-groningen&#34;&gt;&lt;strong&gt;1981-1983 Gastdocent&lt;/strong&gt; aan de Academie van Bouwkunst Groningen,&lt;/h4&gt;
-
-&lt;p&gt;verantwoordelijk voor het initiren en begeleiden van 3e en 4e jaars ontwerpprojecten.&lt;/p&gt;
-
-&lt;h4 id=&#34;1979-1982-medewerkend-architect-bij-architectenbureau-van-heelsbergen-jansen&#34;&gt;&lt;strong&gt;1979-1982 Medewerkend architect&lt;/strong&gt; bij Architectenbureau Van Heelsbergen Jansen,&lt;/h4&gt;
-
-&lt;p&gt;verantwoordelijk voor de ontwerpfase van uiteenlopende bouwprojecten (tot circa 4 miljoen euro) en de planning en inzet van zes medewerkers.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;het opstellen van strategische huisvestingsplannen&lt;/li&gt;
-&lt;li&gt;het managen van complexe (her)huisvestingstrajecten (bijvoorbeeld de fusie NMB-Postbank)&lt;/li&gt;
-&lt;li&gt;het adviseren en implementeren van organisatieveranderingen&lt;/li&gt;
-&lt;li&gt;het opstellen van informatie- en automatiseringsbeleidsplannen.&lt;/li&gt;
-&lt;li&gt;de ontwikkeling van een projectadministratiesysteem voor ICL&lt;/li&gt;
-&lt;li&gt;een orderverwerkingssysteem voor het bemiddelingsbureau van de Bloemenveiling Westland&lt;/li&gt;
-&lt;li&gt;het EDI-flower-project voor elektronische berichtenuitwisseling tussen de partners in de keten.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;lidmaatschappen&#34;&gt;LIDMAATSCHAPPEN&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Corenet Global Benelux&lt;/li&gt;
-&lt;li&gt;Dutch Green Building Council&lt;/li&gt;
-&lt;li&gt;Facility Management Nederland&lt;/li&gt;
-&lt;li&gt;Architectenregister SBA&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;publicaties-en-lezingen&#34;&gt;PUBLICATIES EN LEZINGEN&lt;/h2&gt;
-
-&lt;h4 id=&#34;2013-2015&#34;&gt;2013-2015&lt;/h4&gt;
-
-&lt;p&gt;Het nieuwe werken, gastbijdrage 6-daagse verdiepingsopleiding Facility Management, SBO&lt;/p&gt;
-
-&lt;h4 id=&#34;2012&#34;&gt;2012&lt;/h4&gt;
-
-&lt;p&gt;De toekomst van kantoren, rondetafeldebat FMM samen met Erik Veldhoen, Jan-Peter Kastelein en Fred Kloet.&lt;/p&gt;
-
-&lt;p&gt;Hoeveel vrijheid biedt het Nieuwe Werken?, column FMM&lt;/p&gt;
-
-&lt;h4 id=&#34;2011&#34;&gt;2011&lt;/h4&gt;
-
-&lt;p&gt;Ruimtebesparing of doelmatig ruimtegebruik?, column FMM&lt;/p&gt;
-
-&lt;p&gt;Het einde van FM binnen de organisatie?, column FMM&lt;/p&gt;
-
-&lt;p&gt;Het Nieuwe Werken, Hoe klantgericht kun je zijn?, Lezing NVIH&lt;/p&gt;
-
-&lt;p&gt;Technology- en milieu-push bepalen HNW, column FMM&lt;/p&gt;
-
-&lt;h4 id=&#34;2010&#34;&gt;2010&lt;/h4&gt;
-
-&lt;p&gt;Het Nieuwe Werken, lezing op de architectendag van Markant, Utrecht&lt;/p&gt;
-
-&lt;p&gt;Is het Nieuwe Werken duurzaam?, artikel in Facto Magazine&lt;/p&gt;
-
-&lt;p&gt;Groen denken, groen bouwen, groen gebruiken, artikel over duurzame werkpatronen in het Jaarboek 2010 van Facility Management Nederland&lt;/p&gt;
-
-&lt;p&gt;Concevoir vert, construire vert et exploiter vert, artikel in Office et Culture, France&lt;/p&gt;
-
-&lt;h4 id=&#34;2009&#34;&gt;2009&lt;/h4&gt;
-
-&lt;p&gt;Slimmer Werken   Slimmer Huisvesten, lezing Media Plaza&lt;/p&gt;
-
-&lt;p&gt;Ruimte voor het Nieuwe Werken, boek uitgegeven door Kluwer&lt;/p&gt;
-
-&lt;h4 id=&#34;1995-2008&#34;&gt;1995-2008&lt;/h4&gt;
-
-&lt;p&gt;Talrijke artikelen en lezingen over het werken en de werkomgeving onder andere Het ontstaan van plekzoekende werkers voor Facility Management Magazine.&lt;/p&gt;
-
-&lt;h4 id=&#34;1991-1994&#34;&gt;1991-1994&lt;/h4&gt;
-
-&lt;p&gt;Regelmatige publicatie van artikelen over Facility Management, huisvesting en bouwmanagement, waaronder enkele bijdragen aan het Facility Management Handboek en een publicatie in FM Journal.&lt;/p&gt;
-</description>
+      <description>I sincerely believed that my vision of &amp;lsquo;new ways of working&amp;rsquo; was all about the impact of IT, enabling new office concepts to increase productivity with less office space. But now I see that it evolves into the implementation of artificial intelligence, providing new ways to work with fewer people. To paraphrase the title of the book by my colleague Erik Veldhoen, &amp;lsquo;The demise of the office’, I fear for &amp;lsquo;The demise of the employee&amp;rsquo;.</description>
     </item>
     
     <item>
@@ -473,12 +74,9 @@ In spite of all the compelling prospects of active, healthy work styles, and ins
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://michelmooij.github.io/home/</guid>
-      <description>&lt;p&gt;Welcome,&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;As former architect and workpace strategist I now create new insights in the balance of work and technology in society&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Enjoy reading.&lt;/p&gt;
-</description>
+      <description>Welcome,
+&amp;ldquo;As former architect and workpace strategist I now create new insights in the balance of work and technology in society&amp;rdquo;
+Enjoy reading.</description>
     </item>
     
   </channel>
