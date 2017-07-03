@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Michel Mooij</title>
+    <link>https://michelmooij.github.io/blog/</link>
+    <description>Recent content in Blog on Michel Mooij</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2017 Michel Mooij</copyright>
+    <lastBuildDate>Fri, 17 Mar 2017 17:10:13 +0100</lastBuildDate>
+    
+	<atom:link href="https://michelmooij.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial Intelligence, Big Data and the Distribution of Wealth</title>
+      <link>https://michelmooij.github.io/blog/ai-bigdata-and-the-distribution-of-wealth/</link>
+      <pubDate>Fri, 17 Mar 2017 17:10:13 +0100</pubDate>
+      
+      <guid>https://michelmooij.github.io/blog/ai-bigdata-and-the-distribution-of-wealth/</guid>
+      <description>Is the free market is still able to steer the production and distribution of goods and services to sustain a peaceful society or is it time to replace it by a new economic system which uses AI to distribute the wealth with algorithms and big data?
+Animal Robots, by Henk Mooij 1930-2015
+Artificial Intelligence (AI), I would rather call it high intelligence because it is not so much the artificiality that matters, but the fact that it will soon be superior to human intelligence.</description>
+    </item>
+    
+    <item>
+      <title>I have a confession to make</title>
+      <link>https://michelmooij.github.io/blog/i-have-a-confession-to-make/</link>
+      <pubDate>Tue, 14 Mar 2017 18:47:34 +0100</pubDate>
+      
+      <guid>https://michelmooij.github.io/blog/i-have-a-confession-to-make/</guid>
+      <description>I sincerely believed that my vision of &amp;lsquo;new ways of working&amp;rsquo; was all about the impact of IT, enabling new office concepts to increase productivity with less office space. But now I see that it evolves into the implementation of artificial intelligence, providing new ways to work with fewer people. To paraphrase the title of the book by my colleague Erik Veldhoen, &amp;lsquo;The demise of the office’, I fear for &amp;lsquo;The demise of the employee&amp;rsquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
