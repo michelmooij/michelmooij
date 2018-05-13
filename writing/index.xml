@@ -6,7 +6,6 @@
     <description>Recent content in Writing on Michel Mooij</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2017 Michel Mooij</copyright>
     <lastBuildDate>Tue, 04 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michelmooij.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
@@ -31,6 +30,16 @@ Usually, it is not customer needs, that set the specifications for the developme
       <description>Is the free market is still able to steer the production and distribution of goods and services to sustain a peaceful society or is it time to replace it by a new economic system which uses AI to distribute the wealth with algorithms and big data?
 Animal Robots, by Henk Mooij 1930-2015
 Artificial Intelligence (AI), I would rather call it high intelligence because it is not so much the artificiality that matters, but the fact that it will soon be superior to human intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Do we Outsource our Life to Machines?</title>
+      <link>https://michelmooij.github.io/writing/outcourcing-to-technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelmooij.github.io/writing/outcourcing-to-technology/</guid>
+      <description>Does technology increase our ability to perform, or are we going to fully automate our lives?
+Someone who until recently could not photograph at all can nowadays do very successful with his smartphone. People show the most beautiful photos on Instagram. But you might ask yourself who is really taking pictures, the photographer or the smartphone with the apps? The technology takes so much out of your hands that there is hardly any question of photographing by yourself.</description>
     </item>
     
   </channel>
